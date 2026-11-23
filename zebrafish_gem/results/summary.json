@@ -1,0 +1,30 @@
+{
+  "model": "ZebrafishGEM",
+  "sha256": "3424f584f3f48711d79a0a5af475e0ad0413af10c93345a7bb76e53874a1e217",
+  "cobra_version": "0.32.1",
+  "solver": "optlang.glpk_interface",
+  "objective": "1.0*MAR00021 - 1.0*MAR00021_reverse_97974",
+  "reactions": 12833,
+  "metabolites": 8435,
+  "genes": 2709,
+  "exchanges": 1658,
+  "default_feed_count": 1658,
+  "default_biomass": 4.262827945443595,
+  "uptake_closed_biomass": 1.7051532868851822e-15,
+  "no_organic_carbon_biomass": -1.3882488890601427e-14,
+  "essential_fraction_threshold": 0.01,
+  "growth_tolerance": 1e-06,
+  "carbon_uptake_limit": 60.0,
+  "gene_calls": {
+    "nonessential": 2614,
+    "essential": 95
+  },
+  "sole_organic_carbon_calls": {
+    "no_biomass": 1611
+  },
+  "omission_conditions": 1611,
+  "omission_statuses": {
+    "optimal": 1611
+  },
+  "omission_reduced_biomass": 9
+}
