@@ -1,0 +1,5 @@
+model,removed,exchange,status,growth
+gapseq,Molybdate,EX_cpd11574_e0,optimal,0.9234331441934122
+gapseq,Nickel,,optimal,0.9234331441934165
+AlphaGEM,Molybdate,EX_mobd_e,optimal,2.005516057075791e-28
+AlphaGEM,Nickel,EX_ni2_e,optimal,0.0

@@ -1,0 +1,7 @@
+model,condition,status,growth
+gapseq,native,optimal,0.5258579234328475
+gapseq,closed,optimal,0.0
+gapseq,no_organic_carbon,optimal,0.0
+AlphaGEM,native,optimal,0.09699816172389865
+AlphaGEM,closed,infeasible,
+AlphaGEM,no_organic_carbon,infeasible,

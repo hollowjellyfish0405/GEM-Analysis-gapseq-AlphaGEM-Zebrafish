@@ -1,0 +1,1373 @@
+uniprot,gapseq_model_gene_id,gapseq_gene_names,gapseq_call,gapseq_status,AlphaGEM_model_gene_id,AlphaGEM_gene_names,AlphaGEM_call,AlphaGEM_status
+A0A2K4Z9M4,,,,,A0A2K4Z9M4,lysCB BSU_28475,nonessential,optimal
+C0H3X7,,,,,C0H3X7,mprF yfiW yfiX BSU08425 BSU08420 BSU08430,nonessential,optimal
+C0H419,,,,,C0H419,yngHB BSU18239,essential,optimal
+C0SP78,,,,,C0SP78,mneP ydfM BSU05470,nonessential,optimal
+C0SP82,,,,,C0SP82,yoaE BSU18570,nonessential,optimal
+C0SP90,sp_C0SP90_C0SP90,ythA BSU30710,nonessential,optimal,C0SP90,ythA BSU30710,nonessential,optimal
+C0SP91,sp_C0SP91_C0SP91,yycJ BSU40370,nonessential,optimal,C0SP91,yycJ BSU40370,nonessential,optimal
+C0SP93,sp_C0SP93_C0SP93,accD yttI BSU29210,nonessential,optimal,,,,
+C0SP94,,,,,C0SP94,yhfQ BSU10330,nonessential,optimal
+C0SP98,sp_C0SP98_C0SP98,ykfD BSU13000,nonessential,optimal,C0SP98,ykfD BSU13000,nonessential,optimal
+C0SPA0,sp_C0SPA0_C0SPA0,amyX BSU29930,nonessential,optimal,C0SPA0,amyX BSU29930,nonessential,optimal
+C0SPA5,sp_C0SPA5_C0SPA5,adhA BSU27010,nonessential,optimal,C0SPA5,adhA BSU27010,nonessential,optimal
+C0SPA7,sp_C0SPA7_C0SPA7,yukB yukA yukBA BSU31875 BSU31880,nonessential,optimal,,,,
+C0SPB0,sp_C0SPB0_C0SPB0,ytcI BSU29560,nonessential,optimal,C0SPB0,ytcI BSU29560,nonessential,optimal
+C0SPB2,sp_C0SPB2_C0SPB2,ywtG BSU35830,nonessential,optimal,C0SPB2,ywtG BSU35830,nonessential,optimal
+C0SPB9,sp_C0SPB9_C0SPB9,ykoN BSU13350,nonessential,optimal,C0SPB9,ykoN BSU13350,nonessential,optimal
+C0SPC0,,,,,C0SPC0,yoaI BSU18620,nonessential,optimal
+C0SPC1,sp_C0SPC1_C0SPC1,ccrZ ytmP BSU29920,nonessential,optimal,,,,
+C0SPC3,,,,,C0SPC3,yjhB BSU12190,nonessential,optimal
+O05213,,,,,O05213,amiE ybbE BSU01670,nonessential,optimal
+O05216,sp_O05216_O05216,chrB chr3N ywrB BSU36120,nonessential,optimal,,,,
+O05218,sp_O05218_O05218,ywrD BSU36100,nonessential,optimal,O05218,ywrD BSU36100,nonessential,optimal
+O05220,,,,,O05220,ywrF BSU36080,nonessential,optimal
+O05229,sp_O05229_O05229,mrpD yufD BSU31630,nonessential,optimal,,,,
+O05235,,,,,O05235,yugF BSU31420,nonessential,optimal
+O05239,,,,,O05239,yugJ BSU31370,nonessential,optimal
+O05240,,,,,O05240,yugK BSU31360,nonessential,optimal
+O05242,sp_O05242_O05242,yugT BSU31290,nonessential,optimal,O05242,yugT BSU31290,nonessential,optimal
+O05253,sp_O05253_O05253,nupO yufO BSU31550,nonessential,optimal,,,,
+O05256,sp_O05256_O05256,maeN yufR BSU31580,nonessential,optimal,,,,
+O05260,sp_O05260_O05260,mrpC yufV BSU31620,nonessential,optimal,,,,
+O05262,sp_O05262_O05262,rhaB yulC BSU31200,nonessential,optimal,O05262,rhaB yulC BSU31200,nonessential,optimal
+O05264,sp_O05264_O05264,rhaA yulE BSU31180,nonessential,optimal,O05264,rhaA yulE BSU31180,nonessential,optimal
+O05267,sp_O05267_O05267,yumB BSU32100,nonessential,optimal,O05267,yumB BSU32100,nonessential,optimal
+O05268,sp_O05268_O05268,yumC BSU32110,nonessential,optimal,O05268,yumC BSU32110,nonessential,optimal
+O05269,,,,,O05269,guaC yumD BSU32130,nonessential,optimal
+O05272,,,,,O05272,asnO yisO yucB BSU10790,nonessential,optimal
+O05390,sp_O05390_O05390,csbX BSU27760,nonessential,optimal,,,,
+O05393,sp_O05393_O05393,mccA yrhA BSU27260,nonessential,optimal,O05393,mccA yrhA BSU27260,nonessential,optimal
+O05394,sp_O05394_O05394,mccB yrhB BSU27250,nonessential,optimal,O05394,mccB yrhB BSU27250,nonessential,optimal
+O05399,,,,,O05399,yrhG BSU27200,nonessential,optimal
+O05400,sp_O05400_O05400,yrhH BSU27180,nonessential,optimal,,,,
+O05406,,,,,O05406,yrhP BSU27100,nonessential,optimal
+O05407,sp_O05407_O05407,yraO BSU26860,nonessential,optimal,,,,
+O05408,,,,,O05408,yrpG BSU26850,nonessential,optimal
+O05412,sp_O05412_O05412,yrpC BSU26810,nonessential,optimal,O05412,yrpC BSU26810,nonessential,optimal
+O05413,sp_O05413_O05413,yrpB BSU26800,nonessential,optimal,,,,
+O05496,sp_O05496_O05496,ydhE BSU05720,nonessential,optimal,,,,
+O05501,,,,,O05501,ydhI BSU05770,nonessential,optimal
+O05507,sp_O05507_O05507,gmuC ydhO BSU05830,nonessential,optimal,,,,
+O05508,sp_O05508_O05508,gmuD bglD ydhP BSU05840,nonessential,optimal,O05508,gmuD bglD ydhP BSU05840,nonessential,optimal
+O05510,sp_O05510_O05510,gmuE ydhR BSU05860,nonessential,optimal,O05510,gmuE ydhR BSU05860,nonessential,optimal
+O05511,sp_O05511_O05511,gmuF ydhS BSU05870,nonessential,optimal,O05511,gmuF ydhS BSU05870,nonessential,optimal
+O05514,sp_O05514_O05514,thiL ydiA ydxA BSU05900,nonessential,optimal,O05514,thiL ydiA ydxA BSU05900,essential,optimal
+O05519,sp_O05519_O05519,ydiF BSU05950,nonessential,optimal,,,,
+O05520,,,,,O05520,moaC ydiG BSU05960,nonessential,optimal
+O06005,,,,,O06005,aapA BSU27090,nonessential,optimal
+O06006,,,,,O06006,yraA BSU27020,nonessential,optimal
+O06012,sp_O06012_O06012,adhB BSU26970,nonessential,optimal,O06012,adhB BSU26970,nonessential,optimal
+O06473,sp_O06473_O06473,yfmO BSU07400,nonessential,optimal,,,,
+O06476,sp_O06476_O06476,yfmR BSU07370,nonessential,optimal,,,,
+O06478,sp_O06478_O06478,yfmT BSU07350,nonessential,optimal,O06478,yfmT BSU07350,nonessential,optimal
+O06480,,,,,O06480,yfnB BSU07330,nonessential,optimal
+O06485,,,,,O06485,yfnG BSU07280,nonessential,optimal
+O06486,sp_O06486_O06486,yfnH BSU07270,nonessential,optimal,O06486,yfnH BSU07270,nonessential,optimal
+O06489,,,,,O06489,yetM yfnL BSU07230,nonessential,optimal
+O06491,sp_O06491_O06491,gatA yedB yerM BSU06680,nonessential,optimal,O06491,gatA yedB yerM BSU06680,nonessential,optimal
+O06492,,,,,O06492,gatC yedA yerL BSU06670,nonessential,optimal
+O06493,sp_O06493_O06493,opuE yerK BSU06660,nonessential,optimal,O06493,opuE yerK BSU06660,nonessential,optimal
+O06724,sp_O06724_O06724,yisK BSU10750,nonessential,optimal,,,,
+O06728,sp_O06728_O06728,yisP yucD BSU10810,nonessential,optimal,,,,
+O06730,,,,,O06730,yisU BSU10870,nonessential,optimal
+O06734,,,,,O06734,yisY BSU10900,nonessential,optimal
+O06735,sp_O06735_O06735,yisZ BSU10910,nonessential,optimal,O06735,yisZ BSU10910,nonessential,optimal
+O06736,sp_O06736_O06736,yitA BSU10920,nonessential,optimal,O06736,yitA BSU10920,nonessential,optimal
+O06737,sp_O06737_O06737,cysH1 yitB BSU10930,nonessential,optimal,O06737,cysH1 yitB BSU10930,nonessential,optimal
+O06738,sp_O06738_O06738,comB yitC BSU10940,nonessential,optimal,O06738,comB yitC BSU10940,nonessential,optimal
+O06739,sp_O06739_O06739,yitD BSU10950,nonessential,optimal,O06739,yitD BSU10950,nonessential,optimal
+O06741,,,,,O06741,yitF BSU10970,nonessential,optimal
+O06745,sp_O06745_O06745,yitJ BSU11010,essential,optimal,O06745,yitJ BSU11010,essential,optimal
+O06967,sp_O06967_O06967,bmrA yvcC BSU34820,nonessential,optimal,O06967,bmrA yvcC BSU34820,nonessential,optimal
+O06972,,,,,O06972,yvcI BSU34780,essential,optimal
+O06976,,,,,O06976,crh yvcM BSU34740,nonessential,optimal
+O06977,,,,,O06977,yvcN BSU34730,nonessential,optimal
+O06984,sp_O06984_O06984,yvdB BSU34660,nonessential,optimal,,,,
+O06986,,,,,O06986,yvdD BSU34640,nonessential,optimal
+O06988,sp_O06988_O06988,bbmA yvdF BSU34620,nonessential,optimal,O06988,bbmA yvdF BSU34620,nonessential,optimal
+O06989,,,,,O06989,mdxE yvdG BSU34610,nonessential,optimal
+O06990,sp_O06990_O06990,mdxF yvdH BSU34600,nonessential,optimal,O06990,mdxF yvdH BSU34600,nonessential,optimal
+O06991,,,,,O06991,mdxG yvdI BSU34590,nonessential,optimal
+O06993,sp_O06993_O06993,mdxK malK yvdK BSU34570,nonessential,optimal,,,,
+O06994,sp_O06994_O06994,malL yvdL BSU34560,nonessential,optimal,O06994,malL yvdL BSU34560,nonessential,optimal
+O06995,sp_O06995_O06995,yvdM BSU34550,nonessential,optimal,O06995,yvdM BSU34550,nonessential,optimal
+O06997,sp_O06997_O06997,cotQ yvdP BSU34520,nonessential,optimal,,,,
+O07002,sp_O07002_O07002,yveA BSU34470,nonessential,optimal,,,,
+O07003,sp_O07003_O07003,levB yveB BSU34460,nonessential,optimal,,,,
+O07006,,,,,O07006,padC pad yveH BSU34400,nonessential,optimal
+O07009,,,,,O07009,ganS cycB yvfK BSU34160,nonessential,optimal
+O07011,,,,,O07011,ganQ yvfM BSU34140,nonessential,optimal
+O07012,sp_O07012_O07012,ganA galO lacA yvfN BSU34130,nonessential,optimal,,,,
+O07014,sp_O07014_O07014,rsbP yvfP BSU34110,nonessential,optimal,,,,
+O07015,sp_O07015_O07015,rsbQ yvfQ BSU34100,nonessential,optimal,O07015,rsbQ yvfQ BSU34100,nonessential,optimal
+O07020,,,,,O07020,lutA yvfV BSU34050,nonessential,optimal
+O07021,sp_O07021_O07021,lutB yvfW BSU34040,nonessential,optimal,O07021,lutB yvfW BSU34040,nonessential,optimal
+O07081,,,,,O07081,yrdC BSU26760,nonessential,optimal
+O07084,sp_O07084_O07084,czcD yrdO BSU26650,nonessential,optimal,O07084,czcD yrdO BSU26650,nonessential,optimal
+O07086,,,,,O07086,yrdR BSU26620,nonessential,optimal
+O07509,sp_O07509_O07509,proJ yohA BSU18470,nonessential,optimal,O07509,proJ yohA BSU18470,nonessential,optimal
+O07513,,,,,O07513,hit yhaE BSU10030,nonessential,optimal
+O07515,sp_O07515_O07515,trpP BSU10010,nonessential,optimal,,,,
+O07529,,,,,O07529,azr yhdA BSU09340,nonessential,optimal
+O07533,sp_O07533_O07533,yhaR BSU09880,nonessential,optimal,O07533,yhaR BSU09880,nonessential,optimal
+O07536,,,,,O07536,khtU yhaU BSU09850,nonessential,optimal
+O07544,,,,,O07544,yheC BSU09780,nonessential,optimal
+O07548,sp_O07548_O07548,yheG BSU09730,nonessential,optimal,,,,
+O07549,sp_O07549_O07549,bmrD yheH BSU09720,nonessential,optimal,O07549,bmrD yheH BSU09720,nonessential,optimal
+O07550,sp_O07550_O07550,bmrC yheI BSU09710,nonessential,optimal,,,,
+O07553,sp_O07553_O07553,nhaC yheL BSU09680,nonessential,optimal,,,,
+O07556,,,,,O07556,yhjB BSU10450,nonessential,optimal
+O07561,sp_O07561_O07561,yhjG BSU10500,nonessential,optimal,O07561,yhjG BSU10500,nonessential,optimal
+O07563,sp_O07563_O07563,glcP glcT1 yhjI BSU10520,nonessential,optimal,,,,
+O07565,,,,,O07565,ntdB yhjK BSU10540,nonessential,optimal
+O07566,,,,,O07566,ntdA yhjL BSU10550,nonessential,optimal
+O07579,,,,,O07579,yhdJ BSU09490,nonessential,optimal
+O07584,,,,,O07584,plsC yhdO BSU09540,nonessential,optimal
+O07587,,,,,O07587,yhdR BSU09570,nonessential,optimal
+O07590,,,,,O07590,fluC1 crcB1 yhdU BSU09600,nonessential,optimal
+O07591,,,,,O07591,fluC2 crcB2 yhdV BSU09610,nonessential,optimal
+O07592,,,,,O07592,yhdW BSU09620,nonessential,optimal
+O07594,,,,,O07594,yhdY BSU09640,nonessential,optimal
+O07597,sp_O07597_O07597,dat yheM BSU09670,nonessential,optimal,O07597,dat yheM BSU09670,nonessential,optimal
+O07598,sp_O07598_O07598,yhaA BSU10070,nonessential,optimal,O07598,yhaA BSU10070,nonessential,optimal
+O07600,sp_O07600_O07600,fabHB fabH2 yhfB BSU10170,nonessential,optimal,O07600,fabHB fabH2 yhfB BSU10170,nonessential,optimal
+O07605,sp_O07605_O07605,gltT yhfG BSU10220,nonessential,optimal,O07605,gltT yhfG BSU10220,nonessential,optimal
+O07607,,,,,O07607,yhfI BSU10240,nonessential,optimal
+O07608,sp_O07608_O07608,lplJ yhfJ BSU10250,nonessential,optimal,O07608,lplJ yhfJ BSU10250,nonessential,optimal
+O07610,sp_O07610_O07610,lcfB yhfL BSU10270,nonessential,optimal,O07610,lcfB yhfL BSU10270,nonessential,optimal
+O07614,,,,,O07614,yhfO BSU10310,nonessential,optimal
+O07615,sp_O07615_O07615,yhfP BSU10320,nonessential,optimal,O07615,yhfP BSU10320,nonessential,optimal
+O07617,,,,,O07617,phoE yhfR BSU10340,nonessential,optimal
+O07618,sp_O07618_O07618,yhfS BSU10350,nonessential,optimal,O07618,yhfS BSU10350,nonessential,optimal
+O07619,,,,,O07619,yhfT BSU10360,nonessential,optimal
+O07622,sp_O07622_O07622,yhfW BSU10390,nonessential,optimal,O07622,yhfW BSU10390,nonessential,optimal
+O07637,sp_O07637_O07637,glsA2 ylaM BSU14830,nonessential,optimal,O07637,glsA2 ylaM BSU14830,nonessential,optimal
+O07639,,,,,O07639,ftsW ylaO BSU14850,nonessential,optimal
+O07918,,,,,O07918,yraH BSU26940,nonessential,optimal
+O07931,sp_O07931_O07931,yraM BSU26880,nonessential,optimal,,,,
+O07937,,,,,O07937,yraK BSU26910,nonessential,optimal
+O07940,,,,,O07940,yisQ yucE BSU10820,nonessential,optimal
+O08336,sp_O08336_O08336,cypB cyp102A3 yrhJ BSU27160,nonessential,optimal,,,,
+O08394,sp_O08394_O08394,cypD cyp102A2 yetO yfnJ BSU07250,nonessential,optimal,,,,
+O08469,sp_O08469_O08469,cypA CYP107J1 yrdE BSU26740,nonessential,optimal,,,,
+O30509,sp_O30509_O30509,gatB yerN BSU06690,nonessential,optimal,O30509,gatB yerN BSU06690,nonessential,optimal
+O30601,sp_O30601_O30601,yosP yojQ/yojS BSU20040,nonessential,optimal,O30601,yosP yojQ/yojS BSU20040,nonessential,optimal
+O31404,sp_O31404_O31404,acoA yfjK BSU08060,nonessential,optimal,O31404,acoA yfjK BSU08060,nonessential,optimal
+O31435,,,,,O31435,ybdM BSU02030,nonessential,optimal
+O31440,,,,,O31440,cypC CYP152A1 BSU02100,nonessential,optimal
+O31448,,,,,O31448,ybfH BSU02210,nonessential,optimal
+O31452,sp_O31452_O31452,ybfK BSU02260,nonessential,optimal,O31452,ybfK BSU02260,nonessential,optimal
+O31458,sp_O31458_O31458,gamA ybfT BSU02360,nonessential,optimal,O31458,gamA ybfT BSU02360,nonessential,optimal
+O31461,sp_O31461_O31461,ilvE ybgE BSU02390,nonessential,optimal,O31461,ilvE ybgE BSU02390,nonessential,optimal
+O31462,sp_O31462_O31462,ybgF BSU02400,nonessential,optimal,O31462,ybgF BSU02400,nonessential,optimal
+O31463,sp_O31463_O31463,ybgG BSU02410,nonessential,optimal,O31463,ybgG BSU02410,nonessential,optimal
+O31464,sp_O31464_O31464,glnT ybgH BSU02420,nonessential,optimal,O31464,glnT ybgH BSU02420,nonessential,optimal
+O31465,sp_O31465_O31465,glsA1 glsA ybgJ BSU02430,nonessential,optimal,O31465,glsA1 glsA ybgJ BSU02430,nonessential,optimal
+O31474,,,,,O31474,ycgJ BSU03160,nonessential,optimal
+O31475,sp_O31475_O31475,ycgT BSU03270,nonessential,optimal,O31475,ycgT BSU03270,nonessential,optimal
+O31501,sp_O31501_O31501,swrC BSU06710,nonessential,optimal,,,,
+O31502,sp_O31502_O31502,dagK dgkB yerQ BSU06720,nonessential,optimal,,,,
+O31504,,,,,O31504,dnmA yeeA BSU06760,nonessential,optimal
+O31518,,,,,O31518,yesO BSU06970,nonessential,optimal
+O31521,,,,,O31521,yesR BSU07000,nonessential,optimal
+O31534,,,,,O31534,hmoA yetG BSU07150,nonessential,optimal
+O31535,,,,,O31535,yetH BSU07160,nonessential,optimal
+O31540,,,,,O31540,yetK BSU07210,nonessential,optimal
+O31543,,,,,O31543,yfjQ BSU08000,nonessential,optimal
+O31550,sp_O31550_O31550,acoC yfjI BSU08080,nonessential,optimal,O31550,acoC yfjI BSU08080,nonessential,optimal
+O31567,,,,,O31567,yfiY BSU08440,nonessential,optimal
+O31568,sp_O31568_O31568,yfiZ BSU08450,nonessential,optimal,O31568,yfiZ BSU08450,nonessential,optimal
+O31569,,,,,O31569,yfhA BSU08460,nonessential,optimal
+O31581,,,,,O31581,yfhM BSU08590,nonessential,optimal
+O31608,,,,,O31608,cwlQ yjbJ BSU11570,nonessential,optimal
+O31611,sp_O31611_O31611,yjbM BSU11600,nonessential,optimal,O31611,yjbM BSU11600,nonessential,optimal
+O31612,sp_O31612_O31612,ppnKA nadF yjbN BSU11610,nonessential,optimal,O31612,ppnKA nadF yjbN BSU11610,nonessential,optimal
+O31614,,,,,O31614,prpE yjbP BSU11630,nonessential,optimal
+O31616,sp_O31616_O31616,thiO goxB yjbR BSU11670,essential,optimal,O31616,thiO goxB yjbR BSU11670,nonessential,optimal
+O31618,sp_O31618_O31618,thiG yjbT BSU11690,essential,optimal,O31618,thiG yjbT BSU11690,nonessential,optimal
+O31619,sp_O31619_O31619,thiF yjbU BSU11700,nonessential,optimal,O31619,thiF yjbU BSU11700,nonessential,optimal
+O31620,sp_O31620_O31620,thiD yjbV BSU11710,nonessential,optimal,O31620,thiD yjbV BSU11710,nonessential,optimal
+O31630,,,,,O31630,yjcH BSU11860,nonessential,optimal
+O31631,sp_O31631_O31631,metI yjcI BSU11870,nonessential,optimal,O31631,metI yjcI BSU11870,nonessential,optimal
+O31632,sp_O31632_O31632,metC yjcJ BSU11880,nonessential,optimal,O31632,metC yjcJ BSU11880,nonessential,optimal
+O31633,,,,,O31633,yjcK BSU11890,nonessential,optimal
+O31642,,,,,O31642,yjdA BSU11980,nonessential,optimal
+O31645,sp_O31645_O31645,manP yjdD BSU12010,nonessential,optimal,,,,
+O31646,sp_O31646_O31646,manA pmi yjdE BSU12020,nonessential,optimal,O31646,manA pmi yjdE BSU12020,nonessential,optimal
+O31652,,,,,O31652,ctaB1 ctaO BSU12080,nonessential,optimal
+O31658,sp_O31658_O31658,ktrD ykrM BSU13500,nonessential,optimal,,,,
+O31662,sp_O31662_O31662,mtnA ykrS BSU13550,nonessential,optimal,O31662,mtnA ykrS BSU13550,nonessential,optimal
+O31663,sp_O31663_O31663,mtnK ykrT BSU13560,nonessential,optimal,O31663,mtnK ykrT BSU13560,nonessential,optimal
+O31664,sp_O31664_O31664,mtnU ykrU BSU13570,nonessential,optimal,,,,
+O31665,sp_O31665_O31665,mtnE mtnV ykrV BSU13580,nonessential,optimal,O31665,mtnE mtnV ykrV BSU13580,nonessential,optimal
+O31666,sp_O31666_O31666,mtnW ykrW BSU13590,nonessential,optimal,O31666,mtnW ykrW BSU13590,nonessential,optimal
+O31667,sp_O31667_O31667,mtnX ykrX BSU13600,nonessential,optimal,O31667,mtnX ykrX BSU13600,nonessential,optimal
+O31668,sp_O31668_O31668,mtnB ykrY BSU13610,nonessential,optimal,O31668,mtnB ykrY BSU13610,nonessential,optimal
+O31669,sp_O31669_O31669,mtnD ykrZ BSU13620,nonessential,optimal,O31669,mtnD ykrZ BSU13620,nonessential,optimal
+O31675,,,,,O31675,queC toyM ykvJ BSU13720,nonessential,optimal
+O31676,sp_O31676_O31676,queD ykvK BSU13730,nonessential,optimal,O31676,queD ykvK BSU13730,nonessential,optimal
+O31678,,,,,O31678,queF ykvM BSU13750,nonessential,optimal
+O31680,,,,,O31680,ykvO BSU13770,nonessential,optimal
+O31686,,,,,O31686,ykvU BSU13830,nonessential,optimal
+O31688,sp_O31688_O31688,zosA ykvW BSU13850,nonessential,optimal,,,,
+O31701,,,,,O31701,mobA BSU14260,nonessential,optimal
+O31702,sp_O31702_O31702,moeB BSU14270,nonessential,optimal,O31702,moeB BSU14270,nonessential,optimal
+O31703,,,,,O31703,moeA BSU14280,nonessential,optimal
+O31704,,,,,O31704,mobB BSU14290,nonessential,optimal
+O31705,,,,,O31705,moaE BSU14300,nonessential,optimal
+O31706,,,,,O31706,moaD BSU14310,nonessential,optimal
+O31707,sp_O31707_O31707,yknU BSU14320,nonessential,optimal,O31707,yknU BSU14320,nonessential,optimal
+O31708,sp_O31708_O31708,yknV BSU14330,nonessential,optimal,O31708,yknV BSU14330,nonessential,optimal
+O31714,sp_O31714_O31714,fruK fruB BSU14390,nonessential,optimal,O31714,fruK fruB BSU14390,nonessential,optimal
+O31716,sp_O31716_O31716,ykpA BSU14430,nonessential,optimal,,,,
+O31717,,,,,O31717,ykpB BSU14440,nonessential,optimal
+O31724,,,,,O31724,ylmB thiQ BSU15350,nonessential,optimal
+O31726,sp_O31726_O31726,pgeF ylmD BSU15370,nonessential,optimal,,,,
+O31749,sp_O31749_O31749,pyrH smbA BSU16510,essential,optimal,O31749,pyrH smbA BSU16510,nonessential,optimal
+O31751,sp_O31751_O31751,uppS yluA BSU16530,essential,optimal,O31751,uppS yluA BSU16530,essential,optimal
+O31752,sp_O31752_O31752,cdsA BSU16540,essential,optimal,O31752,cdsA BSU16540,essential,optimal
+O31753,sp_O31753_O31753,dxr yluB BSU16550,essential,optimal,O31753,dxr yluB BSU16550,essential,optimal
+O31755,sp_O31755_O31755,proS BSU16570,nonessential,optimal,,,,
+O31767,,,,,O31767,ymfI BSU16870,nonessential,optimal
+O31773,,,,,O31773,pbpX BSU16950,nonessential,optimal
+O31775,,,,,O31775,ymdB BSU16970,nonessential,optimal
+O31776,sp_O31776_O31776,tdh BSU16990,nonessential,optimal,O31776,tdh BSU16990,nonessential,optimal
+O31777,sp_O31777_O31777,kbl BSU17000,nonessential,optimal,O31777,kbl BSU17000,nonessential,optimal
+O31778,sp_O31778_O31778,miaB ymcB BSU17010,nonessential,optimal,,,,
+O31782,sp_O31782_O31782,pksN BSU17210,nonessential,optimal,,,,
+O31785,sp_O31785_O31785,pksS BSU17230,nonessential,optimal,,,,
+O31801,sp_O31801_O31801,yncF BSU17660,nonessential,optimal,O31801,yncF BSU17660,nonessential,optimal
+O31809,,,,,O31809,yndE BSU17760,nonessential,optimal
+O31817,,,,,O31817,fosB yndN BSU17840,nonessential,optimal
+O31822,sp_O31822_O31822,yngB BSU18180,nonessential,optimal,,,,
+O31825,sp_O31825_O31825,yngE BSU18210,nonessential,optimal,O31825,yngE BSU18210,nonessential,optimal
+O31826,sp_O31826_O31826,yngI BSU18250,nonessential,optimal,O31826,yngI BSU18250,nonessential,optimal
+O31827,sp_O31827_O31827,ppsE pps5 BSU18300,nonessential,optimal,O31827,ppsE pps5 BSU18300,nonessential,optimal
+O31849,sp_O31849_O31849,yojO BSU19380,nonessential,optimal,,,,
+O31851,,,,,O31851,yojM BSU19400,nonessential,optimal
+O31853,sp_O31853_O31853,yojK BSU19420,nonessential,optimal,,,,
+O31855,sp_O31855_O31855,norM yojI BSU19440,nonessential,optimal,,,,
+O31862,sp_O31862_O31862,yojA BSU19520,nonessential,optimal,O31862,yojA BSU19520,nonessential,optimal
+O31875,sp_O31875_O31875,nrdEB yojP yosN BSU20060,nonessential,optimal,,,,
+O31896,,,,,O31896,yorR BSU20280,nonessential,optimal
+O31995,,,,,O31995,yokL BSU21550,nonessential,optimal
+O32028,sp_O32028_O32028,mtnN mtn pfs BSU27270,essential,optimal,O32028,mtnN mtn pfs BSU27270,essential,optimal
+O32029,,,,,O32029,yrrT BSU27280,nonessential,optimal
+O32032,sp_O32032_O32032,pbpI yrrR BSU27310,nonessential,optimal,O32032,pbpI yrrR BSU27310,nonessential,optimal
+O32033,sp_O32033_O32033,udk BSU27330,nonessential,optimal,O32033,udk BSU27330,nonessential,optimal
+O32036,,,,,O32036,trmR yrrM BSU27360,nonessential,optimal
+O32037,,,,,O32037,tcdA yrvM BSU27540,nonessential,optimal
+O32038,sp_O32038_O32038,aspS BSU27550,nonessential,optimal,,,,
+O32039,sp_O32039_O32039,hisS BSU27560,nonessential,optimal,,,,
+O32053,sp_O32053_O32053,tgt BSU27710,nonessential,optimal,,,,
+O32060,sp_O32060_O32060,yrbD BSU27810,nonessential,optimal,O32060,yrbD BSU27810,nonessential,optimal
+O32072,,,,,O32072,ytwF BSU30310,nonessential,optimal
+O32074,sp_O32074_O32074,thiT yuaJ BSU30990,nonessential,optimal,,,,
+O32075,,,,,O32075,yuaI BSU31000,nonessential,optimal
+O32081,sp_O32081_O32081,ktrB yubG BSU31100,nonessential,optimal,,,,
+O32085,sp_O32085_O32085,cdoA yubC BSU31140,nonessential,optimal,O32085,cdoA yubC BSU31140,nonessential,optimal
+O32090,sp_O32090_O32090,pncB yueK BSU31750,essential,optimal,O32090,pncB yueK BSU31750,nonessential,optimal
+O32091,,,,,O32091,pncA yueJ BSU31760,nonessential,optimal
+O32095,,,,,O32095,yueF BSU31800,nonessential,optimal
+O32099,,,,,O32099,yueD BSU31840,nonessential,optimal
+O32105,sp_O32105_O32105,yuiF BSU32040,nonessential,optimal,,,,
+O32106,sp_O32106_O32106,pepA yuiE BSU32050,nonessential,optimal,O32106,pepA yuiE BSU32050,nonessential,optimal
+O32113,,,,,O32113,sufA yutM BSU32160,essential,optimal
+O32114,sp_O32114_O32114,dapF yutL BSU32170,nonessential,optimal,O32114,dapF yutL BSU32170,essential,optimal
+O32115,,,,,O32115,yutK BSU32180,nonessential,optimal
+O32117,,,,,O32117,yutJ BSU32200,nonessential,optimal
+O32124,,,,,O32124,yutG BSU32280,nonessential,optimal
+O32125,,,,,O32125,yutF BSU32290,nonessential,optimal
+O32129,,,,,O32129,lipA yutB BSU32330,nonessential,optimal
+O32133,,,,,O32133,yunD BSU32370,nonessential,optimal
+O32137,sp_O32137_O32137,allB pucH yunH BSU32410,nonessential,optimal,O32137,allB pucH yunH BSU32410,essential,optimal
+O32139,,,,,O32139,pucJ yunJ BSU32430,nonessential,optimal
+O32140,,,,,O32140,pucK yunK BSU32440,nonessential,optimal
+O32141,sp_O32141_O32141,pucL yunL BSU32450,nonessential,optimal,O32141,pucL yunL BSU32450,nonessential,optimal
+O32142,sp_O32142_O32142,pucM yunM BSU32460,nonessential,optimal,,,,
+O32143,,,,,O32143,pucE yurB BSU32470,nonessential,optimal
+O32144,sp_O32144_O32144,pucD yurC BSU32480,nonessential,optimal,O32144,pucD yurC BSU32480,nonessential,optimal
+O32145,,,,,O32145,pucC yurD BSU32490,nonessential,optimal
+O32146,,,,,O32146,pucB yurE BSU32500,nonessential,optimal
+O32147,sp_O32147_O32147,pucA yurF BSU32510,nonessential,optimal,,,,
+O32148,sp_O32148_O32148,pucG yurG BSU32520,nonessential,optimal,O32148,pucG yurG BSU32520,nonessential,optimal
+O32149,sp_O32149_O32149,pucF yurH BSU32530,nonessential,optimal,O32149,pucF yurH BSU32530,nonessential,optimal
+O32151,sp_O32151_O32151,yurJ BSU32550,nonessential,optimal,O32151,yurJ BSU32550,nonessential,optimal
+O32153,,,,,O32153,frlD yurL BSU32570,nonessential,optimal
+O32156,,,,,O32156,yurO BSU32600,nonessential,optimal
+O32157,,,,,O32157,frlB yurP BSU32610,nonessential,optimal
+O32159,,,,,O32159,yurR BSU32630,nonessential,optimal
+O32161,,,,,O32161,yurT BSU32660,nonessential,optimal
+O32162,,,,,O32162,sufB BSU32670,nonessential,optimal
+O32163,,,,,O32163,sufU iscU nifU yurV BSU32680,essential,optimal
+O32164,sp_O32164_O32164,sufS csd yurW BSU32690,nonessential,optimal,O32164,sufS csd yurW BSU32690,nonessential,optimal
+O32167,,,,,O32167,metQ yusA BSU32730,nonessential,optimal
+O32168,,,,,O32168,metP yusB BSU32740,nonessential,optimal
+O32169,sp_O32169_O32169,metN yusC BSU32750,nonessential,optimal,O32169,metN yusC BSU32750,nonessential,optimal
+O32174,,,,,O32174,gcvH yusH BSU32800,essential,optimal
+O32176,sp_O32176_O32176,fadE yusJ BSU32820,nonessential,optimal,O32176,fadE yusJ BSU32820,nonessential,optimal
+O32177,sp_O32177_O32177,fadA yusK BSU32830,nonessential,optimal,O32177,fadA yusK BSU32830,nonessential,optimal
+O32178,sp_O32178_O32178,fadN yusL BSU32840,essential,optimal,O32178,fadN yusL BSU32840,nonessential,optimal
+O32179,sp_O32179_O32179,fadM yusM BSU32850,nonessential,optimal,O32179,fadM yusM BSU32850,nonessential,optimal
+O32182,sp_O32182_O32182,mdtP yusP BSU32880,nonessential,optimal,,,,
+O32188,sp_O32188_O32188,yusV BSU32940,nonessential,optimal,O32188,yusV BSU32940,nonessential,optimal
+O32204,sp_O32204_O32204,yvsH BSU33330,nonessential,optimal,O32204,yvsH BSU33330,nonessential,optimal
+O32210,sp_O32210_O32210,yvgN BSU33400,nonessential,optimal,O32210,yvgN BSU33400,nonessential,optimal
+O32212,sp_O32212_O32212,nhaK yvgP BSU33420,nonessential,optimal,,,,
+O32213,sp_O32213_O32213,cysI yvgQ BSU33430,essential,optimal,O32213,cysI yvgQ BSU33430,essential,optimal
+O32214,sp_O32214_O32214,cysJ yvgR BSU33440,nonessential,optimal,O32214,cysJ yvgR BSU33440,essential,optimal
+O32219,sp_O32219_O32219,cadA yvgW BSU33490,nonessential,optimal,O32219,cadA yvgW BSU33490,nonessential,optimal
+O32220,sp_O32220_O32220,copA yvgX BSU33500,nonessential,optimal,O32220,copA yvgX BSU33500,nonessential,optimal
+O32227,,,,,O32227,yvaE BSU33570,nonessential,optimal
+O32229,sp_O32229_O32229,yvaG BSU33590,nonessential,optimal,O32229,yvaG BSU33590,nonessential,optimal
+O32232,sp_O32232_O32232,est yvaK BSU33620,nonessential,optimal,,,,
+O32234,,,,,O32234,yvaM BSU33640,nonessential,optimal
+O32248,,,,,O32248,yvbK BSU33890,nonessential,optimal
+O32256,,,,,O32256,yvbV BSU34000,nonessential,optimal
+O32257,sp_O32257_O32257,yvbW BSU34010,nonessential,optimal,,,,
+O32259,,,,,O32259,lutC yvbY BSU34030,nonessential,optimal
+O32261,,,,,O32261,ganP yvfL BSU34150,nonessential,optimal
+O32264,sp_O32264_O32264,yvcT BSU34680,nonessential,optimal,O32264,yvcT BSU34680,essential,infeasible
+O32267,,,,,O32267,tuaH yvhH BSU35540,nonessential,optimal
+O32271,sp_O32271_O32271,tuaD yvhD BSU35580,nonessential,optimal,O32271,tuaD yvhD BSU35580,nonessential,optimal
+O32272,,,,,O32272,tuaC yvhC BSU35590,nonessential,optimal
+O32273,,,,,O32273,tuaB yvhB BSU35600,nonessential,optimal
+O32274,,,,,O32274,tuaA yvhA BSU35610,nonessential,optimal
+O32291,,,,,O32291,yxnA BSU40000,nonessential,optimal
+O32292,,,,,O32292,yyzE BSU40120,nonessential,optimal
+O32293,,,,,O32293,yycN BSU40290,nonessential,optimal
+O34308,,,,,O34308,ytkK BSU29420,nonessential,optimal
+O34309,sp_O34309_O34309,rph pps yppS BSU18830,nonessential,optimal,O34309,rph pps yppS BSU18830,nonessential,optimal
+O34311,,,,,O34311,dgcW ykoW BSU13420,nonessential,optimal
+O34313,sp_O34313_O34313,yfkN BSU07840,nonessential,optimal,O34313,yfkN BSU07840,nonessential,optimal
+O34317,sp_O34317_O34317,yodS yokN BSU19730,nonessential,optimal,O34317,yodS yokN BSU19730,nonessential,optimal
+O34324,sp_O34324_O34324,acoL yfjH BSU08090,nonessential,optimal,,,,
+O34325,,,,,O34325,dgcP ytrP BSU29650,nonessential,optimal
+O34328,sp_O34328_O34328,gmk yloD BSU15680,essential,optimal,O34328,gmk yloD BSU15680,essential,optimal
+O34338,sp_O34338_O34338,mntB ytgB BSU30760,nonessential,optimal,,,,
+O34340,sp_O34340_O34340,fabF yjaY BSU11340,nonessential,optimal,O34340,fabF yjaY BSU11340,nonessential,optimal
+O34346,sp_O34346_O34346,uxuA yjmE BSU12340,nonessential,optimal,O34346,uxuA yjmE BSU12340,nonessential,optimal
+O34347,sp_O34347_O34347,argG BSU29450,essential,optimal,O34347,argG BSU29450,essential,optimal
+O34348,,,,,O34348,yfmC BSU07520,nonessential,optimal
+O34349,sp_O34349_O34349,pgpB yodM BSU19650,essential,optimal,O34349,pgpB yodM BSU19650,nonessential,optimal
+O34350,sp_O34350_O34350,snaA ytmI BSU29390,nonessential,optimal,,,,
+O34351,,,,,O34351,yvmC BSU35070,nonessential,optimal
+O34354,sp_O34354_O34354,uxaB yjmI BSU12380,nonessential,optimal,O34354,uxaB yjmI BSU12380,nonessential,optimal
+O34358,sp_O34358_O34358,htrA ykdA BSU12900,nonessential,optimal,,,,
+O34362,sp_O34362_O34362,ykoD BSU13220,nonessential,optimal,,,,
+O34363,sp_O34363_O34363,yobN BSU19020,nonessential,optimal,,,,
+O34364,sp_O34364_O34364,ycdG BSU02840,nonessential,optimal,O34364,ycdG BSU02840,nonessential,optimal
+O34367,,,,,O34367,ytbD BSU29040,nonessential,optimal
+O34368,,,,,O34368,gutA ydjD BSU06160,nonessential,optimal
+O34374,sp_O34374_O34374,yjiB BSU12210,nonessential,optimal,,,,
+O34385,,,,,O34385,mntA ytgA BSU30770,nonessential,optimal
+O34389,sp_O34389_O34389,malS BSU29880,nonessential,optimal,O34389,malS BSU29880,nonessential,optimal
+O34399,sp_O34399_O34399,gltB BSU18440,nonessential,optimal,O34399,gltB BSU18440,nonessential,optimal
+O34406,,,,,O34406,tcyJ ytmJ BSU29380,nonessential,optimal
+O34411,sp_O34411_O34411,hisK hisJ BSU29620,essential,optimal,O34411,hisK hisJ BSU29620,nonessential,optimal
+O34413,,,,,O34413,ytcC BSU30880,nonessential,optimal
+O34416,sp_O34416_O34416,yoaV BSU18770,nonessential,optimal,O34416,yoaV BSU18770,nonessential,optimal
+O34421,sp_O34421_O34421,yngJ BSU18260,nonessential,optimal,O34421,yngJ BSU18260,nonessential,optimal
+O34423,sp_O34423_O34423,yjqC BSU12490,nonessential,optimal,,,,
+O34425,sp_O34425_O34425,gapB BSU29020,nonessential,optimal,O34425,gapB BSU29020,nonessential,optimal
+O34426,sp_O34426_O34426,speH speD ytcF BSU29010,essential,optimal,O34426,speH speD ytcF BSU29010,nonessential,optimal
+O34430,sp_O34430_O34430,ytnM BSU29280,nonessential,optimal,,,,
+O34431,sp_O34431_O34431,yloB BSU15650,nonessential,optimal,O34431,yloB BSU15650,nonessential,optimal
+O34436,sp_O34436_O34436,pit ykaB BSU12840,nonessential,optimal,O34436,pit ykaB BSU12840,essential,optimal
+O34443,sp_O34443_O34443,apt BSU27610,nonessential,optimal,O34443,apt BSU27610,nonessential,optimal
+O34450,sp_O34450_O34450,nagA BSU35010,nonessential,optimal,O34450,nagA BSU35010,nonessential,optimal
+O34451,sp_O34451_O34451,yvrB BSU33170,nonessential,optimal,,,,
+O34453,,,,,O34453,nos yflM BSU07630,nonessential,optimal
+O34456,,,,,O34456,exuT yjmG BSU12360,nonessential,optimal
+O34466,sp_O34466_O34466,yodR yokO BSU19720,nonessential,optimal,O34466,yodR yokO BSU19720,nonessential,optimal
+O34474,sp_O34474_O34474,yoeA BSU18370,nonessential,optimal,O34474,yoeA BSU18370,nonessential,optimal
+O34475,,,,,O34475,yfkO BSU07830,nonessential,optimal
+O34476,sp_O34476_O34476,ytkP BSU29970,nonessential,optimal,O34476,ytkP BSU29970,nonessential,optimal
+O34482,sp_O34482_O34482,ansZ yccC BSU02690,nonessential,optimal,O34482,ansZ yccC BSU02690,nonessential,optimal
+O34493,,,,,O34493,ytmA BSU30580,nonessential,optimal
+O34497,,,,,O34497,ykgA BSU13020,nonessential,optimal
+O34499,sp_O34499_O34499,pgl ykgB BSU13010,nonessential,optimal,O34499,pgl ykgB BSU13010,essential,optimal
+O34507,,,,,O34507,prkC yloP BSU15770,nonessential,optimal
+O34508,,,,,O34508,ykfB BSU12980,nonessential,optimal
+O34510,,,,,O34510,yfmF BSU07490,nonessential,optimal
+O34512,sp_O34512_O34512,yfmM BSU07420,nonessential,optimal,,,,
+O34514,sp_O34514_O34514,menC ytfD BSU30780,essential,optimal,O34514,menC ytfD BSU30780,nonessential,optimal
+O34520,sp_O34520_O34520,hisG BSU34920,essential,optimal,O34520,hisG BSU34920,essential,optimal
+O34521,sp_O34521_O34521,nagP yflF BSU07700,nonessential,optimal,O34521,nagP yflF BSU07700,nonessential,optimal
+O34525,sp_O34525_O34525,sppA yteI BSU29530,nonessential,optimal,,,,
+O34526,sp_O34526_O34526,alaS BSU27410,nonessential,optimal,,,,
+O34529,sp_O34529_O34529,pfkA pfk BSU29190,nonessential,optimal,O34529,pfkA pfk BSU29190,nonessential,optimal
+O34530,,,,,O34530,rsgA cpgA engC yloQ BSU15780,nonessential,optimal
+O34544,sp_O34544_O34544,accC2 accC yngH BSU18240,nonessential,optimal,,,,
+O34545,sp_O34545_O34545,braB BSU29600,nonessential,optimal,O34545,braB BSU29600,nonessential,optimal
+O34553,,,,,O34553,ytsP BSU29640,nonessential,optimal
+O34557,sp_O34557_O34557,rpe yloR BSU15790,nonessential,optimal,O34557,rpe yloR BSU15790,nonessential,optimal
+O34559,,,,,O34559,yteR BSU30120,nonessential,optimal
+O34560,,,,,O34560,yecA BSU06550,nonessential,optimal
+O34565,sp_O34565_O34565,hisH BSU34890,essential,optimal,O34565,hisH BSU34890,nonessential,optimal
+O34569,,,,,O34569,yoaA BSU18530,nonessential,optimal
+O34573,,,,,O34573,yfkT BSU07760,nonessential,optimal
+O34577,sp_O34577_O34577,cysC ylnC BSU15600,nonessential,optimal,O34577,cysC ylnC BSU15600,nonessential,optimal
+O34589,,,,,O34589,ykuP BSU14170,essential,optimal
+O34591,sp_O34591_O34591,acoB yfjJ BSU08070,nonessential,optimal,O34591,acoB yfjJ BSU08070,nonessential,optimal
+O34592,,,,,O34592,ydjP BSU06280,nonessential,optimal
+O34597,sp_O34597_O34597,yfkL BSU07860,nonessential,optimal,,,,
+O34598,sp_O34598_O34598,guaD gde BSU13170,nonessential,optimal,O34598,guaD gde BSU13170,nonessential,optimal
+O34599,sp_O34599_O34599,iscS1 yrvO BSU27510,nonessential,optimal,O34599,iscS1 yrvO BSU27510,essential,optimal
+O34600,sp_O34600_O34600,nrnA ytqI BSU29250,essential,optimal,O34600,nrnA ytqI BSU29250,nonessential,optimal
+O34606,,,,,O34606,glnP BSU27460,nonessential,optimal
+O34607,sp_O34607_O34607,sdaAA ylpA BSU15860,nonessential,optimal,O34607,sdaAA ylpA BSU15860,nonessential,optimal
+O34610,,,,,O34610,znuB adcB yceA BSU02870,essential,optimal
+O34614,sp_O34614_O34614,mnmM ytqB BSU30490,nonessential,optimal,,,,
+O34618,sp_O34618_O34618,ytnA BSU30530,nonessential,optimal,O34618,ytnA BSU30530,nonessential,optimal
+O34631,sp_O34631_O34631,yvrA BSU33160,nonessential,optimal,,,,
+O34632,sp_O34632_O34632,sirB ylnE BSU15620,essential,optimal,O34632,sirB ylnE BSU15620,nonessential,optimal
+O34635,sp_O34635_O34635,sdaAB yloW BSU15850,nonessential,optimal,,,,
+O34639,,,,,O34639,cmoI ytnI BSU29320,nonessential,optimal
+O34645,sp_O34645_O34645,melA BSU30300,nonessential,optimal,O34645,melA BSU30300,nonessential,optimal
+O34651,sp_O34651_O34651,hisD BSU34910,essential,optimal,O34651,hisD BSU34910,essential,optimal
+O34653,sp_O34653_O34653,des desA yocE BSU19180,nonessential,optimal,,,,
+O34660,sp_O34660_O34660,dhaS BSU19310,nonessential,optimal,O34660,dhaS BSU19310,nonessential,optimal
+O34661,sp_O34661_O34661,panE apbA ylbQ BSU15110,essential,optimal,O34661,panE apbA ylbQ BSU15110,nonessential,optimal
+O34662,sp_O34662_O34662,yodT yokM BSU19740,nonessential,optimal,O34662,yodT yokM BSU19740,nonessential,optimal
+O34664,sp_O34664_O34664,thiN yloS BSU15800,nonessential,optimal,O34664,thiN yloS BSU15800,nonessential,optimal
+O34667,sp_O34667_O34667,luxS ytjB BSU30670,essential,optimal,O34667,luxS ytjB BSU30670,essential,optimal
+O34671,,,,,O34671,glnM BSU27450,nonessential,optimal
+O34673,sp_O34673_O34673,uxaA yjmJ BSU12390,nonessential,optimal,O34673,uxaA yjmJ BSU12390,nonessential,optimal
+O34674,,,,,O34674,murJ ytgP BSU30050,nonessential,optimal
+O34676,sp_O34676_O34676,kamA BSU19690,nonessential,optimal,O34676,kamA BSU19690,nonessential,optimal
+O34677,sp_O34677_O34677,glnQ BSU27430,nonessential,optimal,O34677,glnQ BSU27430,nonessential,optimal
+O34678,sp_O34678_O34678,ytbE BSU29050,nonessential,optimal,O34678,ytbE BSU29050,nonessential,optimal
+O34680,,,,,O34680,ydiP BSU06070,nonessential,optimal
+O34683,sp_O34683_O34683,hisB BSU34900,essential,optimal,O34683,hisB BSU34900,essential,optimal
+O34691,,,,,O34691,niaP yceI BSU02950,nonessential,optimal
+O34696,,,,,O34696,ytoA BSU30520,nonessential,optimal
+O34705,,,,,O34705,ytpA BSU30510,nonessential,optimal
+O34707,sp_O34707_O34707,ytpB BSU30500,nonessential,optimal,O34707,ytpB BSU30500,nonessential,optimal
+O34708,sp_O34708_O34708,yflA BSU07750,nonessential,optimal,,,,
+O34714,sp_O34714_O34714,oxdC yvrK BSU33240,nonessential,optimal,O34714,oxdC yvrK BSU33240,nonessential,optimal
+O34717,sp_O34717_O34717,fadH ykuF BSU14060,nonessential,optimal,O34717,fadH ykuF BSU14060,nonessential,optimal
+O34718,sp_O34718_O34718,iolT ydjK BSU06230,nonessential,optimal,O34718,iolT ydjK BSU06230,nonessential,optimal
+O34720,sp_O34720_O34720,forC forC1 yjgC BSU12160,nonessential,optimal,,,,
+O34726,sp_O34726_O34726,yflS BSU07570,nonessential,optimal,O34726,yflS BSU07570,nonessential,optimal
+O34727,sp_O34727_O34727,hisF BSU34870,essential,optimal,O34727,hisF BSU34870,essential,optimal
+O34734,sp_O34734_O34734,cysP ylnA BSU15580,nonessential,optimal,,,,
+O34736,sp_O34736_O34736,yjmC BSU12320,nonessential,optimal,O34736,yjmC BSU12320,nonessential,optimal
+O34737,,,,,O34737,ykuN BSU14150,nonessential,optimal
+O34739,sp_O34739_O34739,steT ykbA BSU12860,nonessential,optimal,O34739,steT ykbA BSU12860,nonessential,optimal
+O34744,sp_O34744_O34744,sumT ylnD BSU15610,nonessential,optimal,O34744,sumT ylnD BSU15610,essential,optimal
+O34745,sp_O34745_O34745,yodF BSU19580,nonessential,optimal,,,,
+O34746,sp_O34746_O34746,fabHA fabH fabH1 yjaX BSU11330,nonessential,optimal,O34746,fabHA fabH fabH1 yjaX BSU11330,nonessential,optimal
+O34753,sp_O34753_O34753,tagO yvhI BSU35530,essential,optimal,O34753,tagO yvhI BSU35530,nonessential,optimal
+O34758,,,,,O34758,mltG yrrL BSU27370,nonessential,optimal
+O34764,sp_O34764_O34764,sat ylnB BSU15590,nonessential,optimal,O34764,sat ylnB BSU15590,nonessential,optimal
+O34767,sp_O34767_O34767,oxdD yoaN BSU18670,nonessential,optimal,O34767,oxdD yoaN BSU18670,nonessential,optimal
+O34768,,,,,O34768,ydjE fruC BSU06170,nonessential,optimal
+O34769,,,,,O34769,pksB BSU17090,nonessential,optimal
+O34779,,,,,O34779,prpC yloO BSU15760,nonessential,optimal
+O34782,,,,,O34782,yvrD BSU33190,nonessential,optimal
+O34787,sp_O34787_O34787,pksE BSU17120,nonessential,optimal,O34787,pksE BSU17120,nonessential,optimal
+O34788,sp_O34788_O34788,bdhA ydjL BSU06240,nonessential,optimal,O34788,bdhA ydjL BSU06240,nonessential,optimal
+O34790,,,,,O34790,pcrB yerE BSU06600,nonessential,optimal
+O34796,,,,,O34796,yvkC BSU35190,nonessential,optimal
+O34797,sp_O34797_O34797,coaD ylbI BSU15020,essential,optimal,O34797,coaD ylbI BSU15020,essential,optimal
+O34805,,,,,O34805,yvrC BSU33180,nonessential,optimal
+O34808,sp_O34808_O34808,uxaC yjmA BSU12300,nonessential,optimal,O34808,uxaC yjmA BSU12300,nonessential,optimal
+O34812,sp_O34812_O34812,yfmJ BSU07450,nonessential,optimal,O34812,yfmJ BSU07450,nonessential,optimal
+O34813,sp_O34813_O34813,sirC ylnF BSU15630,essential,optimal,O34813,sirC ylnF BSU15630,nonessential,optimal
+O34815,,,,,O34815,yoaD BSU18560,nonessential,optimal
+O34824,sp_O34824_O34824,glmM ybbT BSU01770,essential,optimal,O34824,glmM ybbT BSU01770,essential,optimal
+O34825,sp_O34825_O34825,pksC BSU17100,nonessential,optimal,O34825,pksC BSU17100,nonessential,optimal
+O34832,,,,,O34832,yfmE BSU07500,nonessential,optimal
+O34840,sp_O34840_O34840,chaA yfkE BSU07920,nonessential,optimal,O34840,chaA yfkE BSU07920,essential,optimal
+O34847,sp_O34847_O34847,accA BSU29200,nonessential,optimal,,,,
+O34849,sp_O34849_O34849,yerD yecE BSU06590,nonessential,optimal,,,,
+O34851,,,,,O34851,ykfA BSU12970,nonessential,optimal
+O34852,sp_O34852_O34852,tcyK ytmK BSU29370,nonessential,optimal,O34852,tcyK ytmK BSU29370,nonessential,optimal
+O34858,sp_O34858_O34858,argH BSU29440,essential,optimal,O34858,argH BSU29440,essential,optimal
+O34862,sp_O34862_O34862,ytcA BSU30860,nonessential,optimal,O34862,ytcA BSU30860,nonessential,optimal
+O34872,,,,,O34872,ytiB BSU30690,essential,optimal
+O34873,sp_O34873_O34873,yngG BSU18230,nonessential,optimal,O34873,yngG BSU18230,nonessential,optimal
+O34874,sp_O34874_O34874,iscS2 nifS2 BSU29590,nonessential,optimal,O34874,iscS2 nifS2 BSU29590,nonessential,optimal
+O34886,,,,,O34886,ytcB BSU30870,nonessential,optimal
+O34893,sp_O34893_O34893,yngF BSU18220,nonessential,optimal,O34893,yngF BSU18220,nonessential,optimal
+O34895,,,,,O34895,yodP yokR BSU19700,nonessential,optimal
+O34896,,,,,O34896,uxuB yjmF BSU12350,nonessential,optimal
+O34899,sp_O34899_O34899,yvqK BSU33150,essential,optimal,O34899,yvqK BSU33150,nonessential,optimal
+O34900,sp_O34900_O34900,tcyN ytmN BSU29340,nonessential,optimal,O34900,tcyN ytmN BSU29340,nonessential,optimal
+O34909,sp_O34909_O34909,yerA yecB BSU06560,nonessential,optimal,O34909,yerA yecB BSU06560,nonessential,optimal
+O34912,sp_O34912_O34912,hisI hisIE BSU34860,essential,optimal,O34912,hisI hisIE BSU34860,essential,optimal
+O34916,sp_O34916_O34916,ykuR dapL BSU14190,nonessential,optimal,O34916,ykuR dapL BSU14190,nonessential,optimal
+O34919,sp_O34919_O34919,yosS yojU BSU20020,nonessential,optimal,O34919,yosS yojU BSU20020,nonessential,optimal
+O34925,sp_O34925_O34925,deoD punB BSU19630,nonessential,optimal,O34925,deoD punB BSU19630,nonessential,optimal
+O34929,sp_O34929_O34929,yfkF BSU07910,nonessential,optimal,,,,
+O34932,sp_O34932_O34932,coaE ytaG BSU29060,essential,optimal,O34932,coaE ytaG BSU29060,essential,optimal
+O34933,,,,,O34933,yfmD BSU07510,nonessential,optimal
+O34934,sp_O34934_O34934,nadK2 BSU29540,nonessential,optimal,O34934,nadK2 BSU29540,nonessential,optimal
+O34939,,,,,O34939,ydiO BSU06060,nonessential,optimal
+O34940,,,,,O34940,yvrE BSU33200,nonessential,optimal
+O34943,,,,,O34943,ytpR BSU29820,nonessential,optimal
+O34946,,,,,O34946,znuC adcC ycdI BSU02860,essential,optimal
+O34948,,,,,O34948,ykwC BSU13960,nonessential,optimal
+O34961,sp_O34961_O34961,yjmB BSU12310,nonessential,optimal,O34961,yjmB BSU12310,nonessential,optimal
+O34962,sp_O34962_O34962,ytsJ BSU29220,nonessential,optimal,O34962,ytsJ BSU29220,nonessential,optimal
+O34966,sp_O34966_O34966,znuA adcA ycdH BSU02850,nonessential,optimal,O34966,znuA adcA ycdH BSU02850,nonessential,optimal
+O34969,,,,,O34969,yfjR BSU07990,nonessential,optimal
+O34974,,,,,O34974,cmoJ moxC ytnJ BSU29310,nonessential,optimal
+O34978,sp_O34978_O34978,pbuO ytiP BSU29990,nonessential,optimal,O34978,pbuO ytiP BSU29990,nonessential,optimal
+O34980,sp_O34980_O34980,sndA ytnL BSU29290,nonessential,optimal,O34980,sndA ytnL BSU29290,nonessential,optimal
+O34981,sp_O34981_O34981,dapH ykuQ BSU14180,nonessential,optimal,O34981,dapH ykuQ BSU14180,essential,optimal
+O34984,,,,,O34984,yodQ argE yokP BSU19710,nonessential,optimal
+O34987,sp_O34987_O34987,pbuG yebB BSU06370,nonessential,optimal,O34987,pbuG yebB BSU06370,nonessential,optimal
+O34990,sp_O34990_O34990,purU ykkE BSU13110,nonessential,optimal,O34990,purU ykkE BSU13110,nonessential,optimal
+O34992,sp_O34992_O34992,opuCA yvbE BSU33830,nonessential,optimal,,,,
+O35000,sp_O35000_O35000,nagB BSU35020,nonessential,optimal,O35000,nagB BSU35020,nonessential,optimal
+O35005,sp_O35005_O35005,ytrF BSU30410,nonessential,optimal,,,,
+O35006,sp_O35006_O35006,hisA BSU34880,essential,optimal,O35006,hisA BSU34880,nonessential,optimal
+O35013,sp_O35013_O35013,ytkD mutTA BSU30630,nonessential,optimal,O35013,ytkD mutTA BSU30630,nonessential,optimal
+O35017,,,,,O35017,yogA BSU18430,nonessential,optimal
+O35031,,,,,O35031,acyP AcP yflL BSU07640,nonessential,optimal
+O35033,sp_O35033_O35033,coaBC yloI BSU15700,essential,optimal,O35033,coaBC yloI BSU15700,essential,optimal
+O35045,,,,,O35045,yjmD BSU12330,nonessential,optimal
+O35046,,,,,O35046,yocD BSU19170,nonessential,optimal
+O54408,sp_O54408_O54408,relA BSU27600,nonessential,optimal,O54408,relA BSU27600,nonessential,optimal
+P00497,sp_P00497_P00497,purF BSU06490,essential,optimal,P00497,purF BSU06490,essential,optimal
+P03947,sp_P03947_P03947,trpD BSU22670,essential,optimal,,,,
+P03963,sp_P03963_P03963,trpE BSU22680,nonessential,optimal,P03963,trpE BSU22680,essential,optimal
+P03964,sp_P03964_P03964,trpC BSU22660,essential,optimal,P03964,trpC BSU22660,essential,optimal
+P04948,sp_P04948_P04948,thrB BSU32240,essential,optimal,P04948,thrB BSU32240,essential,optimal
+P04990,sp_P04990_P04990,thrC BSU32250,essential,optimal,P04990,thrC BSU32250,essential,optimal
+P05306,sp_P05306_P05306,sacP BSU38050 ipa-49d,nonessential,optimal,P05306,sacP BSU38050 ipa-49d,nonessential,optimal
+P05645,sp_P05645_P05645,leuB leuC BSU28270,nonessential,optimal,P05645,leuB leuC BSU28270,nonessential,optimal
+P05654,,,,,P05654,pyrB BSU15490,nonessential,optimal
+P05655,sp_P05655_P05655,sacB BSU34450,nonessential,optimal,,,,
+P05656,sp_P05656_P05656,sacC BSU27030,nonessential,optimal,,,,
+P06629,,,,,P06629,ywjG BSU37140,nonessential,optimal
+P07343,sp_P07343_P07343,fumC citG BSU33040,nonessential,optimal,P07343,fumC citG BSU33040,nonessential,optimal
+P07373,,,,,P07373,spoVE BSU15210,nonessential,optimal
+P07600,sp_P07600_P07600,trpB BSU22640,essential,optimal,P07600,trpB BSU22640,essential,optimal
+P07601,sp_P07601_P07601,trpA BSU22630,essential,optimal,P07601,trpA BSU22630,essential,optimal
+P07788,sp_P07788_P07788,cotA pig BSU06300,nonessential,optimal,P07788,cotA pig BSU06300,nonessential,optimal
+P07819,sp_P07819_P07819,sacA BSU38040 ipa-50d,nonessential,optimal,,,,
+P07869,sp_P07869_P07869,gerAB gerA2 BSU33060,nonessential,optimal,P07869,gerAB gerA2 BSU33060,nonessential,optimal
+P08064,,,,,P08064,sdhC BSU28450,essential,optimal
+P08065,sp_P08065_P08065,sdhA citF BSU28440,nonessential,optimal,,,,
+P08066,sp_P08066_P08066,sdhB BSU28430,nonessential,optimal,,,,
+P08164,sp_P08164_P08164,nadE outB BSU03130,essential,optimal,P08164,nadE outB BSU03130,essential,optimal
+P08495,sp_P08495_P08495,lysC BSU28470,nonessential,optimal,P08495,lysC BSU28470,nonessential,optimal
+P08750,,,,,P08750,dacA BSU00100,nonessential,optimal
+P08838,sp_P08838_P08838,ptsI BSU13910,nonessential,optimal,P08838,ptsI BSU13910,nonessential,optimal
+P09124,sp_P09124_P09124,gapA gap BSU33940,nonessential,optimal,P09124,gapA gap BSU33940,essential,infeasible
+P09339,sp_P09339_P09339,citB BSU18000,nonessential,optimal,P09339,citB BSU18000,nonessential,optimal
+P0CI73,sp_P0CI73_P0CI73,glmS gcaA ybxD BSU01780,essential,optimal,P0CI73,glmS gcaA ybxD BSU01780,essential,optimal
+P0CI75,sp_P0CI75_P0CI75,birA BSU22440,nonessential,optimal,,,,
+P0CI77,,,,,P0CI77,proH proC yoxE BSU18480,nonessential,optimal
+P0CI80,sp_P0CI80_P0CI80,xylA BSU17600,nonessential,optimal,P0CI80,xylA BSU17600,nonessential,optimal
+P0CW80,,,,,P0CW80,ebrA BSU17300,nonessential,optimal
+P0CW82,,,,,P0CW82,ebrB BSU17290,nonessential,optimal
+P10475,sp_P10475_P10475,eglS bglC gld BSU18130,nonessential,optimal,,,,
+P10725,sp_P10725_P10725,alr1 alr dal BSU04640,nonessential,optimal,P10725,alr1 alr dal BSU04640,nonessential,optimal
+P10728,,,,,P10728,spoIIAB BSU23460,nonessential,optimal
+P10944,sp_P10944_P10944,hutH BSU39350,nonessential,optimal,P10944,hutH BSU39350,nonessential,optimal
+P11044,sp_P11044_P11044,thyA2 thyB BSU21820,essential,optimal,P11044,thyA2 thyB BSU21820,essential,optimal
+P11045,sp_P11045_P11045,dfrA BSU21810,essential,optimal,P11045,dfrA BSU21810,nonessential,optimal
+P11998,sp_P11998_P11998,ribH BSU23250,essential,optimal,P11998,ribH BSU23250,essential,optimal
+P12011,sp_P12011_P12011,gntK BSU40060,nonessential,optimal,P12011,gntK BSU40060,nonessential,optimal
+P12012,sp_P12012_P12012,gntP BSU40070,nonessential,optimal,P12012,gntP BSU40070,nonessential,optimal
+P12013,sp_P12013_P12013,gntZ BSU40080,nonessential,optimal,P12013,gntZ BSU40080,nonessential,optimal
+P12039,sp_P12039_P12039,purD BSU06530,essential,optimal,P12039,purD BSU06530,essential,optimal
+P12040,sp_P12040_P12040,purN BSU06510,essential,optimal,P12040,purN BSU06510,nonessential,optimal
+P12041,sp_P12041_P12041,purQ BSU06470,essential,optimal,P12041,purQ BSU06470,nonessential,optimal
+P12042,sp_P12042_P12042,purL BSU06480,essential,optimal,P12042,purL BSU06480,nonessential,optimal
+P12043,sp_P12043_P12043,purM ath BSU06500,essential,optimal,P12043,purM ath BSU06500,essential,optimal
+P12044,sp_P12044_P12044,purE BSU06420,nonessential,optimal,P12044,purE BSU06420,essential,optimal
+P12045,sp_P12045_P12045,purK BSU06430,essential,optimal,P12045,purK BSU06430,nonessential,optimal
+P12046,sp_P12046_P12046,purC BSU06450,essential,optimal,P12046,purC BSU06450,essential,optimal
+P12047,sp_P12047_P12047,purB purE BSU06440,essential,optimal,P12047,purB purE BSU06440,essential,optimal
+P12048,sp_P12048_P12048,purH purHJ BSU06520,essential,optimal,P12048,purH purHJ BSU06520,essential,optimal
+P12049,,,,,P12049,purS yexA BSU06460,nonessential,optimal
+P12310,sp_P12310_P12310,gdh BSU03930,nonessential,optimal,P12310,gdh BSU03930,nonessential,optimal
+P12425,sp_P12425_P12425,glnA BSU17460,nonessential,optimal,P12425,glnA BSU17460,essential,optimal
+P12946,sp_P12946_P12946,ctaA BSU14870,nonessential,optimal,,,,
+P13242,sp_P13242_P13242,pyrG ctrA BSU37150,essential,optimal,P13242,pyrG ctrA BSU37150,essential,optimal
+P13243,sp_P13243_P13243,fbaA fba fba1 orfY-tsr BSU37120,nonessential,optimal,P13243,fbaA fba fba1 orfY-tsr BSU37120,nonessential,optimal
+P13484,sp_P13484_P13484,tagE gtaA rodD BSU35730,essential,optimal,,,,
+P13485,sp_P13485_P13485,tagF rodC tag3 BSU35720,essential,optimal,,,,
+P13714,sp_P13714_P13714,ldh lctE BSU03050,nonessential,optimal,P13714,ldh lctE BSU03050,nonessential,optimal
+P14192,sp_P14192_P14192,glmU gcaD tms tms-26 BSU00500,essential,optimal,P14192,glmU gcaD tms tms-26 BSU00500,essential,optimal
+P14193,sp_P14193_P14193,prs BSU00510,essential,optimal,P14193,prs BSU00510,nonessential,optimal
+P14205,,,,,P14205,yuxO comA2 comAB BSU31670,nonessential,optimal
+P14802,,,,,P14802,yoxD BSU18500,nonessential,optimal
+P14949,,,,,P14949,trxA trx BSU28500,nonessential,optimal
+P15400,sp_P15400_P15400,sacX sacS BSU38410 ipa-14r,nonessential,optimal,P15400,sacX sacS BSU38410 ipa-14r,nonessential,optimal
+P16263,sp_P16263_P16263,odhB citM BSU19360,nonessential,optimal,P16263,odhB citM BSU19360,nonessential,optimal
+P16304,sp_P16304_P16304,adk BSU01370,essential,optimal,P16304,adk BSU01370,nonessential,optimal
+P16440,sp_P16440_P16440,ribE ribB BSU23270,essential,optimal,P16440,ribE ribB BSU23270,essential,optimal
+P16524,sp_P16524_P16524,dapX patA uat BSU14000,nonessential,optimal,P16524,dapX patA uat BSU14000,nonessential,optimal
+P16616,sp_P16616_P16616,hemC BSU28150,essential,optimal,P16616,hemC BSU28150,essential,optimal
+P16618,sp_P16618_P16618,hemA BSU28170,essential,optimal,P16618,hemA BSU28170,essential,optimal
+P17618,sp_P17618_P17618,ribD ribG BSU23280,essential,optimal,P17618,ribD ribG BSU23280,essential,optimal
+P17620,sp_P17620_P17620,ribBA ribA BSU23260,essential,optimal,P17620,ribBA ribA BSU23260,essential,optimal
+P17731,sp_P17731_P17731,hisC hisH BSU22620,essential,optimal,P17731,hisC hisH BSU22620,nonessential,optimal
+P17820,sp_P17820_P17820,dnaK BSU25470,nonessential,optimal,P17820,dnaK BSU25470,nonessential,optimal
+P17904,,,,,P17904,rsbW BSU04720,nonessential,optimal
+P17906,sp_P17906_P17906,rsbX BSU04740,nonessential,optimal,,,,
+P17921,sp_P17921_P17921,pheS BSU28640,nonessential,optimal,,,,
+P17922,sp_P17922_P17922,pheT BSU28630,nonessential,optimal,,,,
+P18156,,,,,P18156,glpF BSU09280,nonessential,optimal
+P18157,sp_P18157_P18157,glpK BSU09290,nonessential,optimal,P18157,glpK BSU09290,nonessential,optimal
+P18158,sp_P18158_P18158,glpD BSU09300,nonessential,optimal,P18158,glpD BSU09300,nonessential,optimal
+P18159,sp_P18159_P18159,pgcA gtaC gtaE yhxB BSU09310,essential,optimal,P18159,pgcA gtaC gtaE yhxB BSU09310,nonessential,optimal
+P18185,sp_P18185_P18185,carB cpaB BSU11240,nonessential,optimal,P18185,carB cpaB BSU11240,nonessential,optimal
+P18186,sp_P18186_P18186,argF BSU11250,essential,optimal,P18186,argF BSU11250,essential,optimal
+P18255,sp_P18255_P18255,thrS thrSV BSU28950,nonessential,optimal,,,,
+P18256,sp_P18256_P18256,thrZ thrS2 BSU37560,nonessential,optimal,,,,
+P18429,sp_P18429_P18429,xynA BSU18840,nonessential,optimal,,,,
+P18579,sp_P18579_P18579,murB ylxC BSU15230,essential,optimal,P18579,murB ylxC BSU15230,essential,optimal
+P19079,sp_P19079_P19079,cdd BSU25300,nonessential,optimal,P19079,cdd BSU25300,nonessential,optimal
+P19080,,,,,P19080,aroH BSU22690,nonessential,optimal
+P19219,,,,,P19219,adaA BSU01810,nonessential,optimal
+P19220,,,,,P19220,adaB BSU01820,nonessential,optimal
+P19405,sp_P19405_P19405,phoB phoAIII BSU05740,nonessential,optimal,P19405,phoB phoAIII BSU05740,nonessential,optimal
+P19406,sp_P19406_P19406,phoA phoAIV BSU09410,nonessential,optimal,P19406,phoA phoAIV BSU09410,nonessential,optimal
+P19465,sp_P19465_P19465,folE mtrA BSU22780,essential,optimal,P19465,folE mtrA BSU22780,nonessential,optimal
+P19582,sp_P19582_P19582,hom tdm BSU32260,essential,optimal,P19582,hom tdm BSU32260,nonessential,optimal
+P19638,,,,,P19638,dgkA dgk yqxF BSU25310,nonessential,optimal
+P19669,sp_P19669_P19669,tal orfU ywjH BSU37110,nonessential,optimal,P19669,tal orfU ywjH BSU37110,nonessential,optimal
+P19670,sp_P19670_P19670,murAB murA murZ BSU37100,nonessential,optimal,P19670,murAB murA murZ BSU37100,nonessential,optimal
+P19672,,,,,P19672,yqxC yqiF BSU24260,nonessential,optimal
+P20166,sp_P20166_P20166,ptsG crr ptsX BSU13890,nonessential,optimal,P20166,ptsG crr ptsX BSU13890,nonessential,optimal
+P20167,sp_P20167_P20167,trpF BSU22650,essential,optimal,P20167,trpF BSU22650,nonessential,optimal
+P20691,sp_P20691_P20691,aroA aroE BSU22600,essential,optimal,P20691,aroA aroE BSU22600,essential,optimal
+P20692,sp_P20692_P20692,tyrA BSU22610,essential,optimal,P20692,tyrA BSU22610,essential,optimal
+P21203,sp_P21203_P21203,pheA BSU27900,essential,optimal,P21203,pheA BSU27900,essential,optimal
+P21248,sp_P21248_P21248,hemD BSU28140,essential,optimal,P21248,hemD BSU28140,essential,optimal
+P21340,sp_P21340_P21340,paiA BSU32150,nonessential,optimal,P21340,paiA BSU32150,nonessential,optimal
+P21656,sp_P21656_P21656,trpS BSU11420,nonessential,optimal,,,,
+P21879,sp_P21879_P21879,guaB gnaB BSU00090,nonessential,optimal,P21879,guaB gnaB BSU00090,nonessential,optimal
+P21880,sp_P21880_P21880,pdhD aceD citL BSU14610,nonessential,optimal,P21880,pdhD aceD citL BSU14610,nonessential,optimal
+P21881,sp_P21881_P21881,pdhA aceA BSU14580,nonessential,optimal,P21881,pdhA aceA BSU14580,nonessential,optimal
+P21882,sp_P21882_P21882,pdhB aceB BSU14590,nonessential,optimal,P21882,pdhB aceB BSU14590,nonessential,optimal
+P21883,sp_P21883_P21883,pdhC aceC BSU14600,nonessential,optimal,P21883,pdhC aceC BSU14600,nonessential,optimal
+P21885,sp_P21885_P21885,speA cad BSU14630,nonessential,optimal,P21885,speA cad BSU14630,nonessential,optimal
+P22250,sp_P22250_P22250,gltX BSU00920,essential,optimal,P22250,gltX BSU00920,essential,optimal
+P22326,sp_P22326_P22326,tyrS1 BSU29670,nonessential,optimal,,,,
+P23054,sp_P23054_P23054,tetB tet BSU40770,nonessential,optimal,,,,
+P23129,sp_P23129_P23129,odhA citK BSU19370,nonessential,optimal,P23129,odhA citK BSU19370,nonessential,optimal
+P23445,sp_P23445_P23445,fliI BSU16240,nonessential,optimal,,,,
+P23630,sp_P23630_P23630,lysA lys BSU23380,nonessential,optimal,P23630,lysA lys BSU23380,essential,optimal
+P23715,sp_P23715_P23715,argC BSU11190,nonessential,optimal,P23715,argC BSU11190,essential,optimal
+P23966,sp_P23966_P23966,menB BSU30800,essential,optimal,P23966,menB BSU30800,nonessential,optimal
+P23970,sp_P23970_P23970,menD BSU30820,essential,optimal,P23970,menD BSU30820,nonessential,optimal
+P23971,sp_P23971_P23971,menE BSU30790,nonessential,optimal,P23971,menE BSU30790,nonessential,optimal
+P23973,,,,,P23973,menF icsM BSU30830,nonessential,optimal
+P23974,sp_P23974_P23974,menH ytfB ytxM BSU30810,nonessential,optimal,P23974,menH ytfB ytxM BSU30810,nonessential,optimal
+P24009,,,,,P24009,ctaB2 BSU14880,essential,optimal
+P24010,sp_P24010_P24010,ctaD BSU14900,nonessential,optimal,P24010,ctaD BSU14900,nonessential,optimal
+P24011,sp_P24011_P24011,ctaC BSU14890,nonessential,optimal,P24011,ctaC BSU14890,nonessential,optimal
+P24012,sp_P24012_P24012,ctaE BSU14910,nonessential,optimal,,,,
+P24013,sp_P24013_P24013,ctaF BSU14920,nonessential,optimal,,,,
+P24136,sp_P24136_P24136,oppD spo0KD BSU11460,nonessential,optimal,P24136,oppD spo0KD BSU11460,nonessential,optimal
+P24137,sp_P24137_P24137,oppF spo0KE BSU11470,nonessential,optimal,P24137,oppF spo0KE BSU11470,nonessential,optimal
+P24138,,,,,P24138,oppB spo0KB BSU11440,nonessential,optimal
+P24139,,,,,P24139,oppC spo0KC BSU11450,nonessential,optimal
+P24141,sp_P24141_P24141,oppA spo0KA BSU11430,nonessential,optimal,P24141,oppA spo0KA BSU11430,nonessential,optimal
+P25052,sp_P25052_P25052,tenA BSU11650,nonessential,optimal,P25052,tenA BSU11650,nonessential,optimal
+P25053,sp_P25053_P25053,tenI BSU11660,essential,optimal,P25053,tenI BSU11660,nonessential,optimal
+P25148,,,,,P25148,gspA ywaG BSU38430 ipa-12d,nonessential,optimal
+P25151,sp_P25151_P25151,tyrS2 tyrR tyrS1 tyrT tyrZ BSU38460 ipa-9r,nonessential,optimal,P25151,tyrS2 tyrR tyrS1 tyrT tyrZ BSU38460 ipa-9r,nonessential,optimal
+P25503,sp_P25503_P25503,hutU BSU39360 EE57A,nonessential,optimal,P25503,hutU BSU39360 EE57A,nonessential,optimal
+P25971,sp_P25971_P25971,pyrF BSU15550,essential,optimal,P25971,pyrF BSU15550,essential,optimal
+P25972,sp_P25972_P25972,pyrE pyrX BSU15560,essential,optimal,P25972,pyrE pyrX BSU15560,essential,optimal
+P25983,sp_P25983_P25983,pyrK pyrDB pyrDII pyrZ ylxD BSU15530,nonessential,optimal,P25983,pyrK pyrDB pyrDII pyrZ ylxD BSU15530,nonessential,optimal
+P25993,sp_P25993_P25993,pyrAA BSU15510,nonessential,optimal,P25993,pyrAA BSU15510,nonessential,optimal
+P25994,sp_P25994_P25994,pyrAB BSU15520,nonessential,optimal,P25994,pyrAB BSU15520,nonessential,optimal
+P25995,sp_P25995_P25995,pyrC BSU15500,essential,optimal,P25995,pyrC BSU15500,nonessential,optimal
+P25996,sp_P25996_P25996,pyrD pyrDA pyrDI BSU15540,nonessential,optimal,P25996,pyrD pyrDA pyrDI BSU15540,nonessential,optimal
+P26380,,,,,P26380,levE sacL BSU27060,nonessential,optimal
+P26381,,,,,P26381,levF BSU27050,nonessential,optimal
+P26382,sp_P26382_P26382,levG BSU27040,nonessential,optimal,P26382,levG BSU27040,nonessential,optimal
+P26899,sp_P26899_P26899,ansB BSU23570,nonessential,optimal,P26899,ansB BSU23570,nonessential,optimal
+P26900,,,,,P26900,ansA BSU23580,nonessential,optimal
+P26901,sp_P26901_P26901,katA kat kat-19 BSU08820,nonessential,optimal,P26901,katA kat kat-19 BSU08820,nonessential,optimal
+P26903,,,,,P26903,dppB dciAB BSU12930,nonessential,optimal
+P26904,,,,,P26904,dppC dciAC BSU12940,nonessential,optimal
+P26905,sp_P26905_P26905,dppD dciAD BSU12950,nonessential,optimal,P26905,dppD dciAD BSU12950,nonessential,optimal
+P26906,sp_P26906_P26906,dppE dciAE BSU12960,nonessential,optimal,P26906,dppE dciAE BSU12960,nonessential,optimal
+P26935,sp_P26935_P26935,iolG idh BSU39700 E83G,nonessential,optimal,,,,
+P27206,sp_P27206_P27206,srfAA srfA srfA1 BSU03480,nonessential,optimal,P27206,srfAA srfA srfA1 BSU03480,nonessential,optimal
+P27620,sp_P27620_P27620,tagA BSU35750,essential,optimal,P27620,tagA BSU35750,nonessential,optimal
+P27623,sp_P27623_P27623,tagD BSU35740,essential,optimal,P27623,tagD BSU35740,nonessential,optimal
+P27876,sp_P27876_P27876,tpiA tpi BSU33920,nonessential,optimal,P27876,tpiA tpi BSU33920,nonessential,optimal
+P28819,sp_P28819_P28819,pabA trpG BSU00750,essential,optimal,P28819,pabA trpG BSU00750,essential,optimal
+P28820,sp_P28820_P28820,pabB pab BSU00740,nonessential,optimal,P28820,pabB pab BSU00740,nonessential,optimal
+P28821,sp_P28821_P28821,pabC BSU00760,essential,optimal,P28821,pabC BSU00760,nonessential,optimal
+P28822,sp_P28822_P28822,sul BSU00770,essential,optimal,P28822,sul BSU00770,essential,optimal
+P28823,sp_P28823_P28823,folB folA yacE BSU00780,essential,optimal,P28823,folB folA yacE BSU00780,essential,optimal
+P29252,sp_P29252_P29252,folK BSU00790,nonessential,optimal,P29252,folK BSU00790,essential,optimal
+P29726,sp_P29726_P29726,purA BSU40420,essential,optimal,P29726,purA BSU40420,essential,optimal
+P29727,sp_P29727_P29727,guaA BSU06360,essential,optimal,P29727,guaA BSU06360,essential,optimal
+P30949,sp_P30949_P30949,hemL hemK BSU28120,nonessential,optimal,P30949,hemL hemK BSU28120,nonessential,optimal
+P30950,sp_P30950_P30950,hemB BSU28130,essential,optimal,P30950,hemB BSU28130,essential,optimal
+P31102,sp_P31102_P31102,aroB BSU22700,essential,optimal,P31102,aroB BSU22700,essential,optimal
+P31103,sp_P31103_P31103,ndk BSU22730,essential,optimal,P31103,ndk BSU22730,nonessential,optimal
+P31104,sp_P31104_P31104,aroC aroF BSU22710,essential,optimal,P31104,aroC aroF BSU22710,essential,optimal
+P31112,sp_P31112_P31112,hepS gerC1 gerCA hepA BSU22760,nonessential,optimal,P31112,hepS gerC1 gerCA hepA BSU22760,nonessential,optimal
+P31113,sp_P31113_P31113,menG gerC2 gerCB menH BSU22750,essential,optimal,P31113,menG gerC2 gerCB menH BSU22750,nonessential,optimal
+P31114,sp_P31114_P31114,hepT gerC3 gerCC hepB BSU22740,essential,optimal,P31114,hepT gerC3 gerCC hepB BSU22740,essential,optimal
+P32393,sp_P32393_P32393,comEB comE2 BSU25580,nonessential,optimal,,,,
+P32395,sp_P32395_P32395,hemE BSU10120,essential,optimal,P32395,hemE BSU10120,essential,optimal
+P32396,sp_P32396_P32396,cpfC hemF hemH BSU10130,essential,optimal,P32396,cpfC hemF hemH BSU10130,nonessential,optimal
+P32397,sp_P32397_P32397,cgoX hemG hemY BSU10140,essential,optimal,P32397,cgoX hemG hemY BSU10140,nonessential,optimal
+P32960,sp_P32960_P32960,racX BSU34430,nonessential,optimal,,,,
+P33189,sp_P33189_P33189,yhxA BSU09260,nonessential,optimal,P33189,yhxA BSU09260,nonessential,optimal
+P33449,sp_P33449_P33449,bmr bmr1 BSU24010,nonessential,optimal,,,,
+P34956,sp_P34956_P34956,qoxB BSU38160 ipa-38d,nonessential,optimal,P34956,qoxB BSU38160 ipa-38d,nonessential,optimal
+P34957,sp_P34957_P34957,qoxA BSU38170 ipa-37d,nonessential,optimal,P34957,qoxA BSU38170 ipa-37d,nonessential,optimal
+P34958,sp_P34958_P34958,qoxC BSU38150 ipa-39d,nonessential,optimal,P34958,qoxC BSU38150 ipa-39d,nonessential,optimal
+P34959,sp_P34959_P34959,qoxD BSU38140 ipa-40d,nonessential,optimal,P34959,qoxD BSU38140 ipa-40d,nonessential,optimal
+P35136,sp_P35136_P35136,serA BSU23070,nonessential,optimal,P35136,serA BSU23070,nonessential,optimal
+P35146,sp_P35146_P35146,aroD aroC BSU23080,essential,optimal,P35146,aroD aroC BSU23080,nonessential,optimal
+P35150,,,,,P35150,dacB BSU23190,nonessential,optimal
+P35160,sp_P35160_P35160,resA ypxA BSU23150,nonessential,optimal,,,,
+P35620,sp_P35620_P35620,flhA BSU16390,nonessential,optimal,,,,
+P36430,sp_P36430_P36430,leuS BSU30320,nonessential,optimal,,,,
+P36838,sp_P36838_P36838,carA cpaA BSU11230,nonessential,optimal,P36838,carA cpaA BSU11230,nonessential,optimal
+P36839,sp_P36839_P36839,argD BSU11220,nonessential,optimal,P36839,argD BSU11220,nonessential,optimal
+P36843,sp_P36843_P36843,argJ BSU11200,nonessential,optimal,P36843,argJ BSU11200,essential,optimal
+P36945,sp_P36945_P36945,rbsK BSU35920,nonessential,optimal,P36945,rbsK BSU35920,nonessential,optimal
+P36946,sp_P36946_P36946,rbsD BSU35930,nonessential,optimal,P36946,rbsD BSU35930,nonessential,optimal
+P36947,sp_P36947_P36947,rbsA BSU35940,nonessential,optimal,P36947,rbsA BSU35940,nonessential,optimal
+P36948,,,,,P36948,rbsC BSU35950,nonessential,optimal
+P36949,,,,,P36949,rbsB BSU35960,nonessential,optimal
+P37251,sp_P37251_P37251,ilvB BSU28310,nonessential,optimal,P37251,ilvB BSU28310,essential,optimal
+P37252,sp_P37252_P37252,ilvH ilvN BSU28300,essential,optimal,P37252,ilvH ilvN BSU28300,essential,optimal
+P37253,sp_P37253_P37253,ilvC BSU28290,essential,optimal,P37253,ilvC BSU28290,essential,optimal
+P37464,sp_P37464_P37464,serS BSU00130,nonessential,optimal,,,,
+P37465,sp_P37465_P37465,metG metS BSU00380,nonessential,optimal,,,,
+P37470,sp_P37470_P37470,pth pthA spoVC BSU00530,nonessential,optimal,,,,
+P37472,sp_P37472_P37472,hprT hpt BSU00680,nonessential,optimal,P37472,hprT hpt BSU00680,nonessential,optimal
+P37476,sp_P37476_P37476,ftsH BSU00690,nonessential,optimal,,,,
+P37477,sp_P37477_P37477,lysS BSU00820,nonessential,optimal,P37477,lysS BSU00820,nonessential,optimal
+P37484,,,,,P37484,gdpP yybT BSU40510,nonessential,optimal
+P37487,sp_P37487_P37487,ppaC BSU40550,nonessential,optimal,P37487,ppaC BSU40550,essential,optimal
+P37498,sp_P37498_P37498,yybF BSU40660,nonessential,optimal,,,,
+P37500,sp_P37500_P37500,yybD BSU40680,nonessential,optimal,,,,
+P37504,sp_P37504_P37504,yyaT BSU40720,nonessential,optimal,,,,
+P37506,,,,,P37506,satA yyaR BSU40740,nonessential,optimal
+P37508,,,,,P37508,yyaP BSU40760,nonessential,optimal
+P37511,,,,,P37511,yyaM BSU40810,nonessential,optimal
+P37512,sp_P37512_P37512,yyaL BSU40820,nonessential,optimal,,,,
+P37514,sp_P37514_P37514,yyaJ BSU40840,nonessential,optimal,,,,
+P37515,,,,,P37515,maa yyaI BSU40850,nonessential,optimal
+P37516,,,,,P37516,yyaH BSU40860,nonessential,optimal
+P37519,,,,,P37519,yyaE BSU40930,nonessential,optimal
+P37527,sp_P37527_P37527,pdxS yaaD BSU00110,essential,optimal,P37527,pdxS yaaD BSU00110,nonessential,optimal
+P37528,sp_P37528_P37528,pdxT yaaE BSU00120,essential,optimal,P37528,pdxT yaaE BSU00120,nonessential,optimal
+P37529,sp_P37529_P37529,dck dak yaaF BSU00140,nonessential,optimal,P37529,dck dak yaaF BSU00140,nonessential,optimal
+P37536,sp_P37536_P37536,yaaO BSU00270,nonessential,optimal,P37536,yaaO BSU00270,nonessential,optimal
+P37537,sp_P37537_P37537,tmk yaaP BSU00280,essential,optimal,P37537,tmk yaaP BSU00280,essential,optimal
+P37550,sp_P37550_P37550,ispE ipk yabH BSU00460,essential,optimal,P37550,ispE ipk yabH BSU00460,essential,optimal
+P37552,,,,,P37552,ridA yabJ BSU00480,nonessential,optimal
+P37555,,,,,P37555,yabM BSU00570,nonessential,optimal
+P37556,sp_P37556_P37556,yabN BSU00580,nonessential,optimal,P37556,yabN BSU00580,nonessential,optimal
+P37562,,,,,P37562,yabT BSU00660,nonessential,optimal
+P37563,,,,,P37563,tilS yacA BSU00670,nonessential,optimal
+P37564,sp_P37564_P37564,coaX coaA yacB BSU00700,nonessential,optimal,P37564,coaX coaA yacB BSU00700,nonessential,optimal
+P37566,,,,,P37566,yacD BSU00720,nonessential,optimal
+P37570,,,,,P37570,mcsB yacI BSU00850,nonessential,optimal
+P37573,,,,,P37573,disA comY orf6 yacK BSU00880,nonessential,optimal
+P37580,,,,,P37580,fhuD BSU33320,nonessential,optimal
+P37585,sp_P37585_P37585,murG BSU15220,essential,optimal,P37585,murG BSU15220,essential,optimal
+P37808,sp_P37808_P37808,atpA BSU36830,nonessential,optimal,P37808,atpA BSU36830,nonessential,optimal
+P37809,sp_P37809_P37809,atpD BSU36810,nonessential,optimal,P37809,atpD BSU36810,nonessential,optimal
+P37810,sp_P37810_P37810,atpG BSU36820,nonessential,optimal,P37810,atpG BSU36820,nonessential,optimal
+P37811,,,,,P37811,atpH BSU36840,nonessential,optimal
+P37812,sp_P37812_P37812,atpC BSU36800,nonessential,optimal,P37812,atpC BSU36800,nonessential,optimal
+P37813,,,,,P37813,atpB BSU36870,nonessential,optimal
+P37814,,,,,P37814,atpF BSU36850,nonessential,optimal
+P37815,,,,,P37815,atpE BSU36860,nonessential,optimal
+P37869,sp_P37869_P37869,eno BSU33900,nonessential,optimal,P37869,eno BSU33900,essential,infeasible
+P37877,sp_P37877_P37877,ackA BSU29470,nonessential,optimal,P37877,ackA BSU29470,nonessential,optimal
+P37887,sp_P37887_P37887,cysK BSU00730,nonessential,optimal,P37887,cysK BSU00730,nonessential,optimal
+P37940,sp_P37940_P37940,bfmBAA bfmB1a BSU24050,nonessential,optimal,,,,
+P37941,sp_P37941_P37941,bfmBAB bfmB1b BSU24040,nonessential,optimal,P37941,bfmBAB bfmB1b BSU24040,nonessential,optimal
+P37942,sp_P37942_P37942,bfmBB bfmB bfmB2 BSU24030,nonessential,optimal,P37942,bfmBB bfmB bfmB2 BSU24030,nonessential,optimal
+P37944,sp_P37944_P37944,aroK aroI BSU03150,essential,optimal,P37944,aroK aroI BSU03150,essential,optimal
+P37946,sp_P37946_P37946,ilvA BSU21770,nonessential,optimal,P37946,ilvA BSU21770,nonessential,optimal
+P37948,sp_P37948_P37948,glpT ybeE BSU02140,nonessential,optimal,P37948,glpT ybeE BSU02140,nonessential,optimal
+P37956,,,,,P37956,splB spl BSU13930,nonessential,optimal
+P37957,sp_P37957_P37957,estA lip lipA BSU02700,nonessential,optimal,P37957,estA lip lipA BSU02700,nonessential,optimal
+P37959,,,,,P37959,yusZ yvxA BSU32980,nonessential,optimal
+P37965,,,,,P37965,glpQ ybeD BSU02130,nonessential,optimal
+P38021,sp_P38021_P38021,rocD BSU40340,nonessential,optimal,P38021,rocD BSU40340,nonessential,optimal
+P38032,sp_P38032_P38032,nadB BSU27870,essential,optimal,P38032,nadB BSU27870,essential,optimal
+P38033,sp_P38033_P38033,nifS iscS BSU27880,nonessential,optimal,P38033,nifS iscS BSU27880,nonessential,optimal
+P38422,,,,,P38422,dacF BSU23480,nonessential,optimal
+P38493,sp_P38493_P38493,cmk jofC ypfC BSU22890,nonessential,optimal,P38493,cmk jofC ypfC BSU22890,nonessential,optimal
+P39062,sp_P39062_P39062,acsA BSU29680,nonessential,optimal,P39062,acsA BSU29680,nonessential,optimal
+P39071,sp_P39071_P39071,dhbA entA BSU32000,nonessential,optimal,P39071,dhbA entA BSU32000,nonessential,optimal
+P39118,sp_P39118_P39118,glgB BSU30980,nonessential,optimal,P39118,glgB BSU30980,nonessential,optimal
+P39119,sp_P39119_P39119,citA BSU09440,nonessential,optimal,P39119,citA BSU09440,nonessential,optimal
+P39120,sp_P39120_P39120,citZ citA2 BSU29140,nonessential,optimal,P39120,citZ citA2 BSU29140,nonessential,optimal
+P39121,sp_P39121_P39121,deoC dra BSU39420,nonessential,optimal,P39121,deoC dra BSU39420,nonessential,optimal
+P39122,sp_P39122_P39122,glgC BSU30970,nonessential,optimal,P39122,glgC BSU30970,nonessential,optimal
+P39123,sp_P39123_P39123,glgP BSU30940,nonessential,optimal,P39123,glgP BSU30940,nonessential,optimal
+P39124,,,,,P39124,glgD BSU30960,nonessential,optimal
+P39125,sp_P39125_P39125,glgA BSU30950,nonessential,optimal,P39125,glgA BSU30950,nonessential,optimal
+P39126,sp_P39126_P39126,icd citC BSU29130,nonessential,optimal,P39126,icd citC BSU29130,essential,optimal
+P39130,sp_P39130_P39130,lplD BSU07130,nonessential,optimal,P39130,lplD BSU07130,nonessential,optimal
+P39131,sp_P39131_P39131,mnaA BSU35660,essential,optimal,P39131,mnaA BSU35660,nonessential,optimal
+P39135,sp_P39135_P39135,sfp lpa-8 BSU03570,essential,optimal,P39135,sfp lpa-8 BSU03570,nonessential,optimal
+P39137,sp_P39137_P39137,rocE BSU40330,nonessential,optimal,P39137,rocE BSU40330,nonessential,optimal
+P39138,sp_P39138_P39138,rocF BSU40320,nonessential,optimal,P39138,rocF BSU40320,nonessential,optimal
+P39141,,,,,P39141,nupC BSU39410,nonessential,optimal
+P39142,sp_P39142_P39142,pdp BSU39400,nonessential,optimal,P39142,pdp BSU39400,nonessential,optimal
+P39148,sp_P39148_P39148,glyA glyC BSU36900 ipc-34d,nonessential,optimal,P39148,glyA glyC BSU36900 ipc-34d,essential,optimal
+P39149,sp_P39149_P39149,upp BSU36890 ipc-35d,nonessential,optimal,P39149,upp BSU36890 ipc-35d,nonessential,optimal
+P39154,,,,,P39154,mntP ywlD BSU36940 ipc-30d,nonessential,optimal
+P39156,,,,,P39156,ywlF BSU36920 ipc-32d,essential,optimal
+P39211,sp_P39211_P39211,xylB yncA BSU17610,nonessential,optimal,P39211,xylB yncA BSU17610,essential,optimal
+P39456,sp_P39456_P39456,tcyC yckI BSU03590,nonessential,optimal,P39456,tcyC yckI BSU03590,nonessential,optimal
+P39570,sp_P39570_P39570,gerBB BSU35810,nonessential,optimal,P39570,gerBB BSU35810,nonessential,optimal
+P39574,sp_P39574_P39574,galK BSU38200 ipa-35d,nonessential,optimal,P39574,galK BSU38200 ipa-35d,nonessential,optimal
+P39575,sp_P39575_P39575,galT BSU38190 ipa-36d,nonessential,optimal,P39575,galT BSU38190 ipa-36d,nonessential,optimal
+P39576,sp_P39576_P39576,ilvK ywaA BSU38550 ipa-0r,nonessential,optimal,P39576,ilvK ywaA BSU38550 ipa-0r,nonessential,optimal
+P39577,,,,,P39577,dltE BSU38540 ipa-1r,nonessential,optimal
+P39580,sp_P39580_P39580,dltB BSU38510 ipa-4r,nonessential,optimal,,,,
+P39581,,,,,P39581,dltA dae BSU38500 ipa-5r,nonessential,optimal
+P39582,sp_P39582_P39582,menA ywaB BSU38490 ipa-6d,essential,optimal,P39582,menA ywaB BSU38490 ipa-6d,nonessential,optimal
+P39583,,,,,P39583,ywaC BSU38480 ipa-7d,nonessential,optimal
+P39586,,,,,P39586,ywbC BSU38370 ipa-18r,nonessential,optimal
+P39589,,,,,P39589,ywbF BSU38340 ipa-21r,nonessential,optimal
+P39593,sp_P39593_P39593,thiM thiK ywbJ BSU38300 ipa-25d,nonessential,optimal,P39593,thiM thiK ywbJ BSU38300 ipa-25d,nonessential,optimal
+P39594,sp_P39594_P39594,thiE thiC ywbK BSU38290 ipa-26d,essential,optimal,P39594,thiE thiC ywbK BSU38290 ipa-26d,nonessential,optimal
+P39595,sp_P39595_P39595,efeU ywbL BSU38280 ipa-27d,nonessential,optimal,,,,
+P39597,sp_P39597_P39597,efeB DyP efeN ywbN BSU38260 ipa-29d,nonessential,optimal,P39597,efeB DyP efeN ywbN BSU38260 ipa-29d,nonessential,optimal
+P39599,sp_P39599_P39599,ywcA BSU38240 ipa-31r,nonessential,optimal,P39599,ywcA BSU38240 ipa-31r,nonessential,optimal
+P39605,sp_P39605_P39605,nfrA1 nfrA ywcG BSU38110 ipa-43d,nonessential,optimal,,,,
+P39608,sp_P39608_P39608,ywcJ BSU38060 ipa-48r,nonessential,optimal,P39608,ywcJ BSU38060 ipa-48r,nonessential,optimal
+P39610,sp_P39610_P39610,pdxK ywdB BSU38020 ipa-52r,nonessential,optimal,P39610,pdxK ywdB BSU38020 ipa-52r,nonessential,optimal
+P39616,sp_P39616_P39616,ywdH BSU37960 ipa-58r,nonessential,optimal,P39616,ywdH BSU37960 ipa-58r,nonessential,optimal
+P39618,sp_P39618_P39618,ywdJ BSU37940 ipa-60d,nonessential,optimal,,,,
+P39623,sp_P39623_P39623,spsC BSU37890 ipa-65d,nonessential,optimal,P39623,spsC BSU37890 ipa-65d,nonessential,optimal
+P39624,,,,,P39624,spsD BSU37880 ipa-66d,nonessential,optimal
+P39625,sp_P39625_P39625,spsE BSU37870 ipa-67d,nonessential,optimal,P39625,spsE BSU37870 ipa-67d,nonessential,optimal
+P39627,,,,,P39627,spsG spsH BSU37850 ipa-69d/ipa-70d,nonessential,optimal
+P39629,sp_P39629_P39629,rmlA spsI BSU37840 ipa-71d,nonessential,optimal,P39629,rmlA spsI BSU37840 ipa-71d,nonessential,optimal
+P39630,sp_P39630_P39630,rfbB spsJ BSU37830 ipa-72d,nonessential,optimal,P39630,rfbB spsJ BSU37830 ipa-72d,nonessential,optimal
+P39631,sp_P39631_P39631,spsK BSU37820 ipa-73d,nonessential,optimal,P39631,spsK BSU37820 ipa-73d,nonessential,optimal
+P39633,sp_P39633_P39633,rocG gudA yweB BSU37790 ipa-75d,nonessential,optimal,P39633,rocG gudA yweB BSU37790 ipa-75d,nonessential,optimal
+P39634,sp_P39634_P39634,rocA BSU37780 ipa-76d,nonessential,optimal,P39634,rocA BSU37780 ipa-76d,nonessential,optimal
+P39636,sp_P39636_P39636,rocC BSU37760 ipa-78d,nonessential,optimal,,,,
+P39638,,,,,P39638,bacA ywfB BSU37740 ipa-80d,nonessential,optimal
+P39639,,,,,P39639,bacB ywfC BSU37730 ipa-81d,nonessential,optimal
+P39640,,,,,P39640,bacC ywfD BSU37720 ipa-82d,nonessential,optimal
+P39641,,,,,P39641,bacD ywfE BSU37710 ipa-83d,nonessential,optimal
+P39643,sp_P39643_P39643,bacF ywfG BSU37690 ipa-85d,nonessential,optimal,P39643,bacF ywfG BSU37690 ipa-85d,nonessential,optimal
+P39644,,,,,P39644,bacG ywfH BSU37680 ipa-86r,nonessential,optimal
+P39645,sp_P39645_P39645,chdC hemQ ywfI BSU37670 ipa-87r,essential,optimal,P39645,chdC hemQ ywfI BSU37670 ipa-87r,nonessential,optimal
+P39646,sp_P39646_P39646,pta ywfJ BSU37660 ipa-88d,nonessential,optimal,P39646,pta ywfJ BSU37660 ipa-88d,nonessential,optimal
+P39649,,,,,P39649,ywfM BSU37630 ipa-91d,nonessential,optimal
+P39666,sp_P39666_P39666,nadC yrxB BSU27860,essential,optimal,P39666,nadC yrxB BSU27860,essential,optimal
+P39668,sp_P39668_P39668,yyxA yycK BSU40360,nonessential,optimal,,,,
+P39757,,,,,P39757,moaA narA narAB BSU36700,nonessential,optimal
+P39761,sp_P39761_P39761,adeC ade yzaD BSU14520,nonessential,optimal,P39761,adeC ade yzaD BSU14520,nonessential,optimal
+P39765,sp_P39765_P39765,pyrR BSU15470,nonessential,optimal,P39765,pyrR BSU15470,nonessential,optimal
+P39766,sp_P39766_P39766,pyrP BSU15480,nonessential,optimal,P39766,pyrP BSU15480,nonessential,optimal
+P39771,,,,,P39771,purT BSU02230,nonessential,optimal
+P39772,sp_P39772_P39772,asnS BSU22360,nonessential,optimal,,,,
+P39773,sp_P39773_P39773,gpmI pgm BSU33910,nonessential,optimal,P39773,gpmI pgm BSU33910,nonessential,optimal
+P39794,sp_P39794_P39794,treP treB BSU07800,nonessential,optimal,P39794,treP treB BSU07800,nonessential,optimal
+P39795,sp_P39795_P39795,treA treC BSU07810,nonessential,optimal,P39795,treA treC BSU07810,nonessential,optimal
+P39812,sp_P39812_P39812,gltA BSU18450,nonessential,optimal,P39812,gltA BSU18450,nonessential,optimal
+P39815,,,,,P39815,trmFO gid ylyC BSU16130,nonessential,optimal
+P39816,sp_P39816_P39816,gamP ybfS yzfA BSU02350,nonessential,optimal,P39816,gamP ybfS yzfA BSU02350,nonessential,optimal
+P39817,,,,,P39817,gltP BSU02340,nonessential,optimal
+P39820,sp_P39820_P39820,proB BSU13120,nonessential,optimal,P39820,proB BSU13120,nonessential,optimal
+P39821,sp_P39821_P39821,proA BSU13130,nonessential,optimal,P39821,proA BSU13130,essential,optimal
+P39822,sp_P39822_P39822,psd BSU02290,essential,optimal,P39822,psd BSU02290,essential,optimal
+P39823,sp_P39823_P39823,pssA pss BSU02270,essential,optimal,P39823,pssA pss BSU02270,nonessential,optimal
+P39824,,,,,P39824,penP BSU18800,nonessential,optimal
+P39840,sp_P39840_P39840,galM yoxA BSU18360,nonessential,optimal,P39840,galM yoxA BSU18360,nonessential,optimal
+P39841,sp_P39841_P39841,yvyI pmi BSU35790,nonessential,optimal,P39841,yvyI pmi BSU35790,nonessential,optimal
+P39843,sp_P39843_P39843,blt bmr2 bmt BSU26590,nonessential,optimal,,,,
+P39844,,,,,P39844,dacC pbp BSU18350,nonessential,optimal
+P39845,sp_P39845_P39845,ppsA pps1 BSU18340,nonessential,optimal,,,,
+P39846,sp_P39846_P39846,ppsB pps2 BSU18330,nonessential,optimal,,,,
+P39847,sp_P39847_P39847,ppsC pps3 BSU18320,nonessential,optimal,,,,
+P39909,,,,,P39909,bltD bmr2D bmtD BSU26600,nonessential,optimal
+P39912,sp_P39912_P39912,aroA BSU29750,essential,optimal,P39912,aroA BSU29750,essential,optimal
+P40398,,,,,P40398,yhxD BSU10430,nonessential,optimal
+P40400,,,,,P40400,ssuA ygbA yzeA BSU08840,nonessential,optimal
+P40401,sp_P40401_P40401,ssuC ygaM yzeB BSU08850,nonessential,optimal,P40401,ssuC ygaM yzeB BSU08850,nonessential,optimal
+P40402,sp_P40402_P40402,ssuD ygcA yzeC BSU08860,nonessential,optimal,P40402,ssuD ygcA yzeC BSU08860,nonessential,optimal
+P40404,,,,,P40404,cheD ylxK BSU16460,nonessential,optimal
+P40406,sp_P40406_P40406,nagZ ybbD yzbA BSU01660,nonessential,optimal,P40406,nagZ ybbD yzbA BSU01660,nonessential,optimal
+P40409,,,,,P40409,feuA BSU01630,nonessential,optimal
+P40410,sp_P40410_P40410,feuB BSU01620,nonessential,optimal,P40410,feuB BSU01620,nonessential,optimal
+P40411,,,,,P40411,feuC BSU01610,nonessential,optimal
+P40420,sp_P40420_P40420,glcU ycxE BSU03920,nonessential,optimal,,,,
+P40735,sp_P40735_P40735,ecfA cbiO1 ybaD ybxA BSU01450,nonessential,optimal,,,,
+P40739,sp_P40739_P40739,bglP BSU39270 N17C,nonessential,optimal,P40739,bglP BSU39270 N17C,nonessential,optimal
+P40740,sp_P40740_P40740,bglH BSU39260 N17D,nonessential,optimal,P40740,bglH BSU39260 N17D,nonessential,optimal
+P40746,,,,,P40746,tgl yugV yuxF BSU31270,nonessential,optimal
+P40747,sp_P40747_P40747,yuxG yulA BSU31220,nonessential,optimal,,,,
+P40750,,,,,P40750,pbpD BSU31490,nonessential,optimal
+P40760,sp_P40760_P40760,yuxJ yugC BSU31480,nonessential,optimal,,,,
+P40778,sp_P40778_P40778,murC ytxF BSU29790,essential,optimal,P40778,murC ytxF BSU29790,essential,optimal
+P40804,sp_P40804_P40804,pksF BSU17140,nonessential,optimal,P40804,pksF BSU17140,nonessential,optimal
+P40805,,,,,P40805,pksH BSU17160,nonessential,optimal
+P40806,sp_P40806_P40806,pksJ pksK BSU17180,nonessential,optimal,P40806,pksJ pksK BSU17180,nonessential,optimal
+P40830,,,,,P40830,pksG BSU17150,nonessential,optimal
+P40871,,,,,P40871,dhbE entE BSU31980,nonessential,optimal
+P40872,,,,,P40872,pksM pksY BSU17200,nonessential,optimal
+P40924,sp_P40924_P40924,pgk BSU33930,nonessential,optimal,P40924,pgk BSU33930,essential,infeasible
+P40948,,,,,P40948,corA yqhC yqxL BSU24740,nonessential,optimal
+P42062,sp_P42062_P42062,appB BSU11390,nonessential,optimal,P42062,appB BSU11390,nonessential,optimal
+P42063,,,,,P42063,appC BSU11400,nonessential,optimal
+P42064,sp_P42064_P42064,appD BSU11360,nonessential,optimal,P42064,appD BSU11360,essential,optimal
+P42065,sp_P42065_P42065,appF BSU11370,nonessential,optimal,P42065,appF BSU11370,nonessential,optimal
+P42068,sp_P42068_P42068,hutG BSU39380 EE57C,nonessential,optimal,P42068,hutG BSU39380 EE57C,nonessential,optimal
+P42084,sp_P42084_P42084,hutI BSU39370 EE57B,nonessential,optimal,P42084,hutI BSU39370 EE57B,nonessential,optimal
+P42085,sp_P42085_P42085,xpt BSU22070,nonessential,optimal,,,,
+P42086,,,,,P42086,pbuX ypaQ BSU22060,nonessential,optimal
+P42087,,,,,P42087,hutM BSU39390 EE57D,nonessential,optimal
+P42094,sp_P42094_P42094,phy yodV yzxA BSU19800,nonessential,optimal,P42094,phy yodV yzxA BSU19800,nonessential,optimal
+P42100,sp_P42100_P42100,glxK yxaA BSU40040 S14A,nonessential,optimal,P42100,glxK yxaA BSU40040 S14A,nonessential,optimal
+P42106,sp_P42106_P42106,qdoI yxaG BSU39980 S14G,nonessential,optimal,P42106,qdoI yxaG BSU39980 S14G,nonessential,optimal
+P42113,sp_P42113_P42113,asnH yxaN BSU39920 S14NR VE7AR,nonessential,optimal,P42113,asnH yxaN BSU39920 S14NR VE7AR,nonessential,optimal
+P42175,sp_P42175_P42175,narG BSU37280,nonessential,optimal,P42175,narG BSU37280,nonessential,optimal
+P42176,sp_P42176_P42176,narH BSU37270,nonessential,optimal,P42176,narH BSU37270,nonessential,optimal
+P42177,sp_P42177_P42177,narI BSU37250,nonessential,optimal,P42177,narI BSU37250,nonessential,optimal
+P42178,,,,,P42178,narJ BSU37260,nonessential,optimal
+P42199,,,,,P42199,tcyA yckK BSU03610,nonessential,optimal
+P42200,,,,,P42200,tcyB yckJ BSU03600,nonessential,optimal
+P42234,sp_P42234_P42234,katE katB BSU39050 N15D,nonessential,optimal,P42234,katE katB BSU39050 N15D,nonessential,optimal
+P42235,sp_P42235_P42235,ycbC BSU02460,nonessential,optimal,P42235,ycbC BSU02460,nonessential,optimal
+P42236,sp_P42236_P42236,gucD ycbD BSU02470,nonessential,optimal,P42236,gucD ycbD BSU02470,nonessential,optimal
+P42237,sp_P42237_P42237,gudP ycbE BSU02480,nonessential,optimal,P42237,gudP ycbE BSU02480,nonessential,optimal
+P42238,sp_P42238_P42238,gudD ycbF BSU02490,nonessential,optimal,P42238,gudD ycbF BSU02490,nonessential,optimal
+P42240,sp_P42240_P42240,garD ycbH BSU02510,nonessential,optimal,P42240,garD ycbH BSU02510,nonessential,optimal
+P42243,,,,,P42243,ycbK BSU02540,nonessential,optimal
+P42251,sp_P42251_P42251,phoD ycbS BSU02620,nonessential,optimal,,,,
+P42253,,,,,P42253,ycbU BSU02660,nonessential,optimal
+P42308,sp_P42308_P42308,citN citH yxiQ BSU39060 N15CR,nonessential,optimal,,,,
+P42314,sp_P42314_P42314,yxjC BSU39000 N15J,nonessential,optimal,,,,
+P42315,sp_P42315_P42315,scoA yxjD BSU38990 N15K,nonessential,optimal,P42315,scoA yxjD BSU38990 N15K,nonessential,optimal
+P42316,sp_P42316_P42316,scoB yxjE BSU38980 N15L,nonessential,optimal,P42316,scoB yxjE BSU38980 N15L,nonessential,optimal
+P42317,sp_P42317_P42317,yxjF BSU38970 N15M,nonessential,optimal,P42317,yxjF BSU38970 N15M,nonessential,optimal
+P42318,,,,,P42318,yxjG BSU38960 N15NR,nonessential,optimal
+P42319,,,,,P42319,yxjH BSU38950 N15OR,nonessential,optimal
+P42399,,,,,P42399,yckA BSU03370,nonessential,optimal
+P42400,,,,,P42400,yckB BSU03380,nonessential,optimal
+P42401,sp_P42401_P42401,yckC BSU03390,nonessential,optimal,,,,
+P42403,sp_P42403_P42403,bglC yckE BSU03410,nonessential,optimal,P42403,bglC yckE BSU03410,nonessential,optimal
+P42404,sp_P42404_P42404,hxlB yckF BSU03450,nonessential,optimal,P42404,hxlB yckF BSU03450,nonessential,optimal
+P42405,sp_P42405_P42405,hxlA yckG BSU03460,nonessential,optimal,P42405,hxlA yckG BSU03460,nonessential,optimal
+P42407,sp_P42407_P42407,ytdA yzwA BSU30850,nonessential,optimal,P42407,ytdA yzwA BSU30850,nonessential,optimal
+P42412,sp_P42412_P42412,iolA mmsA yxdA BSU39760 E83A,nonessential,optimal,P42412,iolA mmsA yxdA BSU39760 E83A,nonessential,optimal
+P42413,,,,,P42413,iolB yxdB BSU39750 E83B,nonessential,optimal
+P42414,sp_P42414_P42414,iolC yxdC BSU39740 E83C,nonessential,optimal,P42414,iolC yxdC BSU39740 E83C,nonessential,optimal
+P42415,,,,,P42415,iolD yxdD BSU39730 E83D,nonessential,optimal
+P42416,sp_P42416_P42416,iolE yxdE BSU39720 E83E,nonessential,optimal,,,,
+P42417,sp_P42417_P42417,iolF yxdF BSU39710 E83F,nonessential,optimal,,,,
+P42418,,,,,P42418,iolH yxdG BSU39690 B65A,nonessential,optimal
+P42419,,,,,P42419,iolI yxdH BSU39680 B65B,nonessential,optimal
+P42420,sp_P42420_P42420,iolJ fbaB yxdI BSU39670 B65C,nonessential,optimal,P42420,iolJ fbaB yxdI BSU39670 B65C,nonessential,optimal
+P42432,sp_P42432_P42432,nasA BSU03330,nonessential,optimal,P42432,nasA BSU03330,nonessential,optimal
+P42433,sp_P42433_P42433,nasB nasBA BSU03320,nonessential,optimal,,,,
+P42434,sp_P42434_P42434,nasC narB nasBB BSU03310,nonessential,optimal,,,,
+P42435,sp_P42435_P42435,nasD nasBC nirB BSU03300,nonessential,optimal,P42435,nasD nasBC nirB BSU03300,nonessential,optimal
+P42436,sp_P42436_P42436,nasE nasBD nirD BSU03290,nonessential,optimal,P42436,nasE nasBD nirD BSU03290,nonessential,optimal
+P42437,sp_P42437_P42437,nasF nasBE BSU03280,nonessential,optimal,P42437,nasF nasBE BSU03280,nonessential,optimal
+P42954,sp_P42954_P42954,tagH BSU35700,essential,optimal,,,,
+P42956,sp_P42956_P42956,mtlA BSU03981 BSU03980,nonessential,optimal,P42956,mtlA BSU03981 BSU03980,nonessential,optimal
+P42957,sp_P42957_P42957,mtlD mtlB BSU03990,nonessential,optimal,P42957,mtlD mtlB BSU03990,nonessential,optimal
+P42958,sp_P42958_P42958,ycsA BSU04000,nonessential,optimal,P42958,ycsA BSU04000,nonessential,optimal
+P42961,,,,,P42961,ycsD BSU04030,essential,optimal
+P42962,sp_P42962_P42962,ycsE BSU04040,essential,optimal,P42962,ycsE BSU04040,nonessential,optimal
+P42963,sp_P42963_P42963,pxpA ycsF BSU04050,nonessential,optimal,,,,
+P42971,,,,,P42971,pbpC ycsM yzsA BSU04140,nonessential,optimal
+P42972,,,,,P42972,ycsN BSU04150,nonessential,optimal
+P42973,sp_P42973_P42973,bglA BSU40110,nonessential,optimal,P42973,bglA BSU40110,nonessential,optimal
+P42974,,,,,P42974,ahpF ndh BSU40100,nonessential,optimal
+P42976,sp_P42976_P42976,dapB BSU22490,essential,optimal,P42976,dapB BSU22490,essential,optimal
+P42980,,,,,P42980,mgsA ypjF BSU22480,nonessential,optimal
+P42982,,,,,P42982,bshA jojH ypjH BSU22460,nonessential,optimal
+P45694,sp_P45694_P45694,tkt tktA BSU17890,essential,optimal,P45694,tkt tktA BSU17890,essential,optimal
+P45740,sp_P45740_P45740,thiC thiA BSU08790,essential,optimal,P45740,thiC thiA BSU08790,essential,optimal
+P45743,sp_P45743_P45743,dhbB BSU31970,nonessential,optimal,P45743,dhbB BSU31970,nonessential,optimal
+P45744,sp_P45744_P45744,dhbC BSU31990,essential,optimal,P45744,dhbC BSU31990,nonessential,optimal
+P45745,sp_P45745_P45745,dhbF BSU31960,nonessential,optimal,,,,
+P45855,sp_P45855_P45855,mmgA yqiL BSU24170,nonessential,optimal,P45855,mmgA yqiL BSU24170,nonessential,optimal
+P45856,sp_P45856_P45856,mmgB yqiM BSU24160,nonessential,optimal,P45856,mmgB yqiM BSU24160,nonessential,optimal
+P45857,sp_P45857_P45857,mmgC yqiN BSU24150,nonessential,optimal,P45857,mmgC yqiN BSU24150,nonessential,optimal
+P45858,sp_P45858_P45858,mmgD yqiO BSU24140,nonessential,optimal,P45858,mmgD yqiO BSU24140,nonessential,optimal
+P45859,sp_P45859_P45859,mmgE prpD yqiP BSU24130,nonessential,optimal,P45859,mmgE prpD yqiP BSU24130,nonessential,optimal
+P45860,,,,,P45860,ywiE BSU37240,nonessential,optimal
+P45861,sp_P45861_P45861,ywjA BSU37230,nonessential,optimal,P45861,ywjA BSU37230,nonessential,optimal
+P45862,,,,,P45862,ywjB BSU37220,nonessential,optimal
+P45865,,,,,P45865,clsB ywjE BSU37190,essential,optimal
+P45866,sp_P45866_P45866,fadF ywjF BSU37180,nonessential,optimal,P45866,fadF ywjF BSU37180,nonessential,optimal
+P45867,sp_P45867_P45867,acdA acd BSU37170,nonessential,optimal,P45867,acdA acd BSU37170,nonessential,optimal
+P45868,sp_P45868_P45868,maeA ywkA BSU37050,nonessential,optimal,P45868,maeA ywkA BSU37050,nonessential,optimal
+P45871,,,,,P45871,ywkD BSU37020,nonessential,optimal
+P46317,sp_P46317_P46317,licC celB BSU38580,nonessential,optimal,,,,
+P46320,,,,,P46320,licH celD celF BSU38560,nonessential,optimal
+P46322,sp_P46322_P46322,pgsA ymfN BSU16920,essential,optimal,P46322,pgsA ymfN BSU16920,nonessential,optimal
+P46323,,,,,P46323,cinA ymfO yzlB BSU16930,nonessential,optimal
+P46328,,,,,P46328,yxbD yxaR BSU39870 VE7E,nonessential,optimal
+P46329,sp_P46329_P46329,aldX yxaS yxbE BSU39860 VE7FR,nonessential,optimal,P46329,aldX yxaS yxbE BSU39860 VE7FR,nonessential,optimal
+P46331,,,,,P46331,yxbG E3BR yxaU BSU39840,nonessential,optimal
+P46333,sp_P46333_P46333,csbC yxcC BSU39810 SS92BR,nonessential,optimal,P46333,csbC yxcC BSU39810 SS92BR,nonessential,optimal
+P46336,,,,,P46336,iolS yxbF BSU39780 SS92ER,nonessential,optimal
+P46341,sp_P46341_P46341,pstB2 pstBA yqgJ yzmE BSU24960,nonessential,optimal,,,,
+P46342,sp_P46342_P46342,pstB1 pstBB yqgK yzmF BSU24950,nonessential,optimal,,,,
+P46344,sp_P46344_P46344,pgpH yqfF BSU25330,nonessential,optimal,P46344,pgpH yqfF BSU25330,nonessential,optimal
+P46348,,,,,P46348,mneS ydxT yeaB BSU06320,nonessential,optimal
+P46349,sp_P46349_P46349,gabP BSU06310,nonessential,optimal,P46349,gabP BSU06310,nonessential,optimal
+P46353,sp_P46353_P46353,drm yqkN BSU23500,nonessential,optimal,P46353,drm yqkN BSU23500,nonessential,optimal
+P46354,sp_P46354_P46354,punA deoD pnp yqkO BSU23490,nonessential,optimal,P46354,punA deoD pnp yqkO BSU23490,nonessential,optimal
+P46904,sp_P46904_P46904,natB BSU02760,nonessential,optimal,,,,
+P46905,,,,,P46905,yccK yzaE BSU02770,nonessential,optimal
+P46906,sp_P46906_P46906,argS BSU37330,nonessential,optimal,,,,
+P46907,sp_P46907_P46907,narK BSU37320,nonessential,optimal,P46907,narK BSU37320,nonessential,optimal
+P46915,,,,,P46915,cotSA ytbA ytxN BSU30910,nonessential,optimal
+P46919,sp_P46919_P46919,gpsA glyC BSU22830,nonessential,optimal,P46919,gpsA glyC BSU22830,nonessential,optimal
+P46920,sp_P46920_P46920,opuAA BSU02980,nonessential,optimal,,,,
+P46921,sp_P46921_P46921,opuAB BSU02990,nonessential,optimal,,,,
+P49787,sp_P49787_P49787,accC1 accC yqhX BSU24340,nonessential,optimal,,,,
+P49814,sp_P49814_P49814,mdh citH BSU29120,nonessential,optimal,P49814,mdh citH BSU29120,nonessential,optimal
+P49852,sp_P49852_P49852,hmp ane3 ykiA BSU13040,nonessential,optimal,P49852,hmp ane3 ykiA BSU13040,nonessential,optimal
+P49855,,,,,P49855,ykkB BSU13080,nonessential,optimal
+P49936,,,,,P49936,fhuB BSU33310,nonessential,optimal
+P49937,,,,,P49937,fhuG BSU33300,nonessential,optimal
+P49938,sp_P49938_P49938,fhuC BSU33290,nonessential,optimal,P49938,fhuC BSU33290,nonessential,optimal
+P49940,,,,,P49940,gerKB BSU03720,nonessential,optimal
+P50620,sp_P50620_P50620,nrdE nrdA BSU17380,nonessential,optimal,P50620,nrdE nrdA BSU17380,essential,optimal
+P50621,sp_P50621_P50621,nrdF BSU17390,nonessential,optimal,P50621,nrdF BSU17390,nonessential,optimal
+P50735,sp_P50735_P50735,gudB ypcA BSU22960,nonessential,optimal,P50735,gudB ypcA BSU22960,nonessential,optimal
+P50740,sp_P50740_P50740,fni idi ypgA BSU22870,nonessential,optimal,P50740,fni idi ypgA BSU22870,nonessential,optimal
+P50743,sp_P50743_P50743,der engA yphC BSU22840,nonessential,optimal,,,,
+P50829,,,,,P50829,ptsA ypqE BSU22230,nonessential,optimal
+P50842,sp_P50842_P50842,kduD BSU22140,nonessential,optimal,P50842,kduD BSU22140,nonessential,optimal
+P50843,sp_P50843_P50843,kduI BSU22130,nonessential,optimal,P50843,kduI BSU22130,nonessential,optimal
+P50845,sp_P50845_P50845,kdgK BSU22110,nonessential,optimal,P50845,kdgK BSU22110,nonessential,optimal
+P50846,sp_P50846_P50846,kdgA BSU22100,nonessential,optimal,P50846,kdgA BSU22100,nonessential,optimal
+P50847,sp_P50847_P50847,kdgT BSU22090,nonessential,optimal,P50847,kdgT BSU22090,nonessential,optimal
+P50864,sp_P50864_P50864,cwlD BSU01530,nonessential,optimal,P50864,cwlD BSU01530,nonessential,optimal
+P51785,sp_P51785_P51785,ilvD BSU21870,essential,optimal,P51785,ilvD BSU21870,essential,optimal
+P51831,sp_P51831_P51831,fabG ylpF BSU15910,nonessential,optimal,P51831,fabG ylpF BSU15910,nonessential,optimal
+P52035,,,,,P52035,bsaA BSU21900,nonessential,optimal
+P52996,sp_P52996_P52996,panB BSU22430,essential,optimal,P52996,panB BSU22430,essential,optimal
+P52998,sp_P52998_P52998,panC BSU22420,essential,optimal,P52998,panC BSU22420,essential,optimal
+P52999,sp_P52999_P52999,panD BSU22410,nonessential,optimal,P52999,panD BSU22410,essential,optimal
+P53001,sp_P53001_P53001,aspB BSU22370,nonessential,optimal,P53001,aspB BSU22370,nonessential,optimal
+P53554,sp_P53554_P53554,bioI CYP107H BSU30190,nonessential,optimal,P53554,bioI CYP107H BSU30190,nonessential,optimal
+P53555,sp_P53555_P53555,bioK bioA BSU30230,nonessential,optimal,P53555,bioK bioA BSU30230,nonessential,optimal
+P53556,sp_P53556_P53556,bioF BSU30220,nonessential,optimal,P53556,bioF BSU30220,nonessential,optimal
+P53557,sp_P53557_P53557,bioB BSU30200,nonessential,optimal,P53557,bioB BSU30200,essential,optimal
+P53558,sp_P53558_P53558,bioD BSU30210,nonessential,optimal,P53558,bioD BSU30210,nonessential,optimal
+P53559,sp_P53559_P53559,bioW BSU30240,nonessential,optimal,P53559,bioW BSU30240,nonessential,optimal
+P53560,,,,,P53560,ytbQ BSU30180,nonessential,optimal
+P54154,,,,,P54154,msrA yppP BSU21690,nonessential,optimal
+P54155,,,,,P54155,msrB yppQ BSU21680,nonessential,optimal
+P54157,sp_P54157_P54157,bcsA BSU22050,nonessential,optimal,,,,
+P54166,,,,,P54166,ugtP ypfP BSU21920,nonessential,optimal
+P54167,sp_P54167_P54167,metAA metA metB BSU21910,essential,optimal,P54167,metAA metA metB BSU21910,essential,optimal
+P54174,,,,,P54174,ypkP BSU21800,essential,optimal
+P54181,,,,,P54181,ypnP BSU21710,nonessential,optimal
+P54304,,,,,P54304,hemW hemN yqeR BSU25500,essential,optimal
+P54374,sp_P54374_P54374,aroE aroD BSU25660,essential,optimal,P54374,aroE aroD BSU25660,essential,optimal
+P54375,sp_P54375_P54375,sodA yqgD BSU25020,nonessential,optimal,P54375,sodA yqgD BSU25020,nonessential,optimal
+P54376,sp_P54376_P54376,gcvPA yqhJ BSU24560,nonessential,optimal,P54376,gcvPA yqhJ BSU24560,nonessential,optimal
+P54377,sp_P54377_P54377,gcvPB yqhK BSU24550,nonessential,optimal,P54377,gcvPB yqhK BSU24550,essential,optimal
+P54378,sp_P54378_P54378,gcvT yqhI BSU24570,nonessential,optimal,P54378,gcvT yqhI BSU24570,essential,optimal
+P54380,sp_P54380_P54380,glyQ yqfJ BSU25270,nonessential,optimal,,,,
+P54381,sp_P54381_P54381,glyS yqfK BSU25260,nonessential,optimal,,,,
+P54382,sp_P54382_P54382,folD yqiA BSU24310,nonessential,optimal,P54382,folD yqiA BSU24310,essential,optimal
+P54383,sp_P54383_P54383,ispA yqiD BSU24280,essential,optimal,P54383,ispA yqiD BSU24280,essential,optimal
+P54417,sp_P54417_P54417,opuD ytfQ BSU30070,nonessential,optimal,P54417,opuD ytfQ BSU30070,nonessential,optimal
+P54418,sp_P54418_P54418,pckA ppc BSU30560,nonessential,optimal,P54418,pckA ppc BSU30560,nonessential,optimal
+P54419,sp_P54419_P54419,metK metE BSU30550,essential,optimal,P54419,metK metE BSU30550,essential,optimal
+P54420,,,,,P54420,asnB asn BSU30540,nonessential,optimal
+P54422,sp_P54422_P54422,ggt BSU18410,nonessential,optimal,P54422,ggt BSU18410,nonessential,optimal
+P54425,,,,,P54425,ybxG ybdP BSU02060,nonessential,optimal
+P54439,,,,,P54439,yrkL BSU26470,nonessential,optimal
+P54448,,,,,P54448,yqeC BSU25730,nonessential,optimal
+P54451,,,,,P54451,yqeF BSU25700,nonessential,optimal
+P54453,sp_P54453_P54453,yqeH BSU25670,nonessential,optimal,,,,
+P54455,sp_P54455_P54455,nadD yqeJ BSU25640,essential,optimal,P54455,nadD yqeJ BSU25640,essential,optimal
+P54458,sp_P54458_P54458,yqeM BSU25610,nonessential,optimal,P54458,yqeM BSU25610,nonessential,optimal
+P54462,sp_P54462_P54462,mtaB tmtB yqeV BSU25430,nonessential,optimal,,,,
+P54463,,,,,P54463,yqeW BSU25420,nonessential,optimal
+P54470,,,,,P54470,yqfL BSU25240,nonessential,optimal
+P54471,,,,,P54471,trmK yqfN BSU25180,nonessential,optimal
+P54473,sp_P54473_P54473,ispH yqfP BSU25160,essential,optimal,P54473,ispH yqfP BSU25160,essential,optimal
+P54482,sp_P54482_P54482,ispG yqfY BSU25070,essential,optimal,P54482,ispG yqfY BSU25070,essential,optimal
+P54487,sp_P54487_P54487,yqgE BSU25010,nonessential,optimal,,,,
+P54488,,,,,P54488,pbpA yqgF BSU25000,nonessential,optimal
+P54490,,,,,P54490,yqgM BSU24910,nonessential,optimal
+P54491,,,,,P54491,yqgN BSU24890,nonessential,optimal
+P54495,sp_P54495_P54495,glcK yqgR BSU24850,nonessential,optimal,P54495,glcK yqgR BSU24850,nonessential,optimal
+P54497,,,,,P54497,yqgT BSU24830,nonessential,optimal
+P54510,,,,,P54510,yqhL BSU24540,nonessential,optimal
+P54511,sp_P54511_P54511,lipM yqhM BSU24530,nonessential,optimal,P54511,lipM yqhM BSU24530,nonessential,optimal
+P54517,,,,,P54517,yqhS BSU24470,nonessential,optimal
+P54523,sp_P54523_P54523,dxs yqiE BSU24270,essential,optimal,P54523,dxs yqiE BSU24270,nonessential,optimal
+P54524,,,,,P54524,yqiG BSU24210,nonessential,optimal
+P54525,,,,,P54525,yqiI BSU24190,nonessential,optimal
+P54527,sp_P54527_P54527,yqiK BSU24180,nonessential,optimal,P54527,yqiK BSU24180,nonessential,optimal
+P54528,sp_P54528_P54528,mmgF prpB yqiQ BSU24120,nonessential,optimal,P54528,mmgF prpB yqiQ BSU24120,nonessential,optimal
+P54530,sp_P54530_P54530,yqiS BSU24090,nonessential,optimal,P54530,yqiS BSU24090,nonessential,optimal
+P54531,,,,,P54531,yqiT BSU24080,nonessential,optimal
+P54532,sp_P54532_P54532,buk yqiU BSU24070,nonessential,optimal,P54532,buk yqiU BSU24070,nonessential,optimal
+P54533,sp_P54533_P54533,bfmBC yqiV BSU24060,nonessential,optimal,P54533,bfmBC yqiV BSU24060,nonessential,optimal
+P54535,sp_P54535_P54535,artP yqiX BSU23980,nonessential,optimal,P54535,artP yqiX BSU23980,nonessential,optimal
+P54537,sp_P54537_P54537,artM yqiZ BSU23960,nonessential,optimal,P54537,artM yqiZ BSU23960,nonessential,optimal
+P54540,,,,,P54540,yqjC BSU23930,nonessential,optimal
+P54541,sp_P54541_P54541,yqjD BSU23920,nonessential,optimal,P54541,yqjD BSU23920,nonessential,optimal
+P54542,,,,,P54542,yqjE BSU23910,essential,optimal
+P54547,sp_P54547_P54547,zwf yqjJ BSU23850,nonessential,optimal,P54547,zwf yqjJ BSU23850,essential,optimal
+P54550,sp_P54550_P54550,namA yqjM BSU23820,nonessential,optimal,,,,
+P54552,,,,,P54552,proI yqjO BSU23800,nonessential,optimal
+P54554,,,,,P54554,yqjQ BSU23780,nonessential,optimal
+P54555,sp_P54555_P54555,dsdA yqjR BSU23770,nonessential,optimal,P54555,dsdA yqjR BSU23770,nonessential,optimal
+P54556,sp_P54556_P54556,coaA yqjS BSU23760,nonessential,optimal,P54556,coaA yqjS BSU23760,nonessential,optimal
+P54557,,,,,P54557,yqjT BSU23750,nonessential,optimal
+P54569,,,,,P54569,yqkF BSU23620,nonessential,optimal
+P54570,,,,,P54570,nudF yqkG BSU23610,nonessential,optimal
+P54571,sp_P54571_P54571,mleN yqkI BSU23560,nonessential,optimal,,,,
+P54572,sp_P54572_P54572,mleA yqkJ BSU23550,nonessential,optimal,P54572,mleA yqkJ BSU23550,nonessential,optimal
+P54575,sp_P54575_P54575,ribC BSU16670,essential,optimal,P54575,ribC BSU16670,essential,optimal
+P54586,,,,,P54586,yhcB BSU09020,nonessential,optimal
+P54595,,,,,P54595,dgcK yhcK BSU09120,nonessential,optimal
+P54607,,,,,P54607,yhcW BSU09240,nonessential,optimal
+P54616,sp_P54616_P54616,fabI yjbW BSU11720,nonessential,optimal,P54616,fabI yjbW BSU11720,essential,optimal
+P54715,sp_P54715_P54715,malP glv-2 glvC glvCB yfiB BSU08200,nonessential,optimal,,,,
+P54718,sp_P54718_P54718,yfiB BSU08210,nonessential,optimal,P54718,yfiB BSU08210,nonessential,optimal
+P54719,sp_P54719_P54719,yfiC BSU08220,nonessential,optimal,P54719,yfiC BSU08220,nonessential,optimal
+P54721,sp_P54721_P54721,catE yfiE BSU08240,nonessential,optimal,P54721,catE yfiE BSU08240,nonessential,optimal
+P54723,sp_P54723_P54723,yfiG BSU08260,nonessential,optimal,P54723,yfiG BSU08260,nonessential,optimal
+P54724,,,,,P54724,yfiH BSU08270,nonessential,optimal
+P54941,,,,,P54941,yxeB BSU39610 HS74BR,nonessential,optimal
+P54947,,,,,P54947,yxeH IP1B BSU39550,essential,optimal
+P54948,sp_P54948_P54948,yxeI BSU39540 LP9A,nonessential,optimal,P54948,yxeI BSU39540 LP9A,nonessential,optimal
+P54950,,,,,P54950,scmK yxeK BSU39520 LP9C,nonessential,optimal
+P54952,,,,,P54952,yxeM BSU39500 LP9E,nonessential,optimal
+P54954,sp_P54954_P54954,yxeO BSU39480 LP9G,nonessential,optimal,P54954,yxeO BSU39480 LP9G,nonessential,optimal
+P54955,sp_P54955_P54955,scmP sndB yxeP BSU39470 LP9H,nonessential,optimal,P54955,scmP sndB yxeP BSU39470 LP9H,nonessential,optimal
+P54983,,,,,P54983,amhX BSU03010,nonessential,optimal
+P55069,sp_P55069_P55069,citM yflO BSU07610,nonessential,optimal,,,,
+P55180,sp_P55180_P55180,galE gne gneA BSU38860,essential,optimal,P55180,galE gne gneA BSU38860,nonessential,optimal
+P55189,sp_P55189_P55189,ybaR BSU01580,nonessential,optimal,P55189,ybaR BSU01580,nonessential,optimal
+P55910,,,,,P55910,lctP ycgC BSU03060,nonessential,optimal
+P68579,sp_P68579_P68579,sunT yolH BSU21470,nonessential,optimal,,,,
+P68729,sp_P68729_P68729,argB BSU11210,nonessential,optimal,P68729,argB BSU11210,essential,optimal
+P70947,,,,,P70947,yitU BSU11140,nonessential,optimal
+P70965,sp_P70965_P70965,murAA murA BSU36760,nonessential,optimal,P70965,murAA murA BSU36760,nonessential,optimal
+P70994,,,,,P70994,ywhB BSU37540,nonessential,optimal
+P70997,,,,,P70997,pbpG ywhE BSU37510,nonessential,optimal
+P70998,sp_P70998_P70998,speE ywhF BSU37500,essential,optimal,P70998,speE ywhF BSU37500,nonessential,optimal
+P70999,sp_P70999_P70999,speB ywhG BSU37490,essential,optimal,P70999,speB ywhG BSU37490,nonessential,optimal
+P71012,sp_P71012_P71012,fruA BSU14400,nonessential,optimal,P71012,fruA BSU14400,nonessential,optimal
+P71016,sp_P71016_P71016,gbsA BSU31060,nonessential,optimal,P71016,gbsA BSU31060,nonessential,optimal
+P71017,sp_P71017_P71017,gbsB BSU31050,nonessential,optimal,P71017,gbsB BSU31050,nonessential,optimal
+P71018,,,,,P71018,plsX ylpD BSU15890,essential,optimal
+P71019,,,,,P71019,fabD ylpE BSU15900,nonessential,optimal
+P71021,sp_P71021_P71021,divIVA ylmJ BSU15420,nonessential,optimal,,,,
+P71035,sp_P71035_P71035,ureB BSU36650,nonessential,optimal,P71035,ureB BSU36650,nonessential,optimal
+P71040,,,,,P71040,clsA ywnE BSU36590,nonessential,optimal
+P71043,sp_P71043_P71043,ywnH BSU36560,nonessential,optimal,P71043,ywnH BSU36560,nonessential,optimal
+P71053,,,,,P71053,epsD yveN BSU34340,nonessential,optimal
+P71055,,,,,P71055,epsF yveP BSU34320,nonessential,optimal
+P71060,,,,,P71060,epsK yvfA/yvfB BSU34265 BSU34270/BSU34260,nonessential,optimal
+P71062,,,,,P71062,epsL yvfC BSU34250,nonessential,optimal
+P71067,sp_P71067_P71067,lutP yvfH BSU34190,nonessential,optimal,P71067,lutP yvfH BSU34190,nonessential,optimal
+P71079,sp_P71079_P71079,fabL yfhR ygaA BSU08650,nonessential,optimal,P71079,fabL yfhR ygaA BSU08650,nonessential,optimal
+P71082,sp_P71082_P71082,ygaD BSU08690,nonessential,optimal,P71082,ygaD BSU08690,nonessential,optimal
+P71084,sp_P71084_P71084,gsaB BSU08710,nonessential,optimal,P71084,gsaB BSU08710,nonessential,optimal
+P75030,sp_P75030_P75030,ureA BSU36660,nonessential,optimal,P75030,ureA BSU36660,nonessential,optimal
+P77837,sp_P77837_P77837,ureC BSU36640,nonessential,optimal,P77837,ureC BSU36640,nonessential,optimal
+P80239,,,,,P80239,ahpC BSU40090,nonessential,optimal
+P80643,,,,,P80643,acpA acpP BSU15920,essential,optimal
+P80858,sp_P80858_P80858,leuC BSU28260,essential,optimal,P80858,leuC BSU28260,essential,optimal
+P80859,sp_P80859_P80859,gndA yqjI BSU23860,nonessential,optimal,P80859,gndA yqjI BSU23860,nonessential,optimal
+P80860,sp_P80860_P80860,pgi yugL BSU31350,nonessential,optimal,P80860,pgi yugL BSU31350,nonessential,optimal
+P80861,sp_P80861_P80861,yjlD BSU12290,nonessential,optimal,P80861,yjlD BSU12290,nonessential,optimal
+P80862,sp_P80862_P80862,serC yhaF BSU10020,nonessential,optimal,P80862,serC yhaF BSU10020,nonessential,optimal
+P80865,sp_P80865_P80865,sucD BSU16100,nonessential,optimal,P80865,sucD BSU16100,nonessential,optimal
+P80866,sp_P80866_P80866,sufC yurY BSU32710,nonessential,optimal,P80866,sufC yurY BSU32710,nonessential,optimal
+P80869,sp_P80869_P80869,ycdF BSU02830,nonessential,optimal,P80869,ycdF BSU02830,nonessential,optimal
+P80871,,,,,P80871,ywrO BSU35990,nonessential,optimal
+P80873,,,,,P80873,ydaD BSU04190,nonessential,optimal
+P80874,,,,,P80874,yhdN BSU09530,nonessential,optimal
+P80877,sp_P80877_P80877,metE metC BSU13180,nonessential,optimal,P80877,metE metC BSU13180,nonessential,optimal
+P80878,sp_P80878_P80878,ydbD BSU04430,nonessential,optimal,,,,
+P80880,sp_P80880_P80880,trxB yvcH BSU34790,essential,optimal,P80880,trxB yvcH BSU34790,nonessential,optimal
+P80885,sp_P80885_P80885,pyk pykA BSU29180,nonessential,optimal,P80885,pyk pykA BSU29180,nonessential,optimal
+P80886,sp_P80886_P80886,sucC BSU16090,nonessential,optimal,P80886,sucC BSU16090,nonessential,optimal
+P81102,,,,,P81102,yodC yolG BSU19550,nonessential,optimal
+P94358,sp_P94358_P94358,aldY yxkE BSU38830,nonessential,optimal,P94358,aldY yxkE BSU38830,nonessential,optimal
+P94360,sp_P94360_P94360,msmX yxkG BSU38810,nonessential,optimal,P94360,msmX yxkG BSU38810,nonessential,optimal
+P94363,sp_P94363_P94363,cimH yxkJ BSU38770,nonessential,optimal,,,,
+P94364,sp_P94364_P94364,cydA yxkK BSU38760,nonessential,optimal,P94364,cydA yxkK BSU38760,nonessential,optimal
+P94365,sp_P94365_P94365,cydB yxkL BSU38750,nonessential,optimal,P94365,cydB yxkL BSU38750,nonessential,optimal
+P94366,sp_P94366_P94366,cydC yxkM BSU38740,nonessential,optimal,P94366,cydC yxkM BSU38740,nonessential,optimal
+P94367,sp_P94367_P94367,cydD yxkN BSU38730,nonessential,optimal,P94367,cydD yxkN BSU38730,nonessential,optimal
+P94368,,,,,P94368,nnrD yxkO BSU38720,nonessential,optimal
+P94377,sp_P94377_P94377,katX yxlI BSU38630,nonessential,optimal,P94377,katX yxlI BSU38630,nonessential,optimal
+P94388,,,,,P94388,cah BSU03180,nonessential,optimal
+P94390,sp_P94390_P94390,putB ycgM BSU03200,nonessential,optimal,P94390,putB ycgM BSU03200,nonessential,optimal
+P94391,sp_P94391_P94391,putC ycgN BSU03210,nonessential,optimal,P94391,putC ycgN BSU03210,nonessential,optimal
+P94392,sp_P94392_P94392,putP ycgO BSU03220,nonessential,optimal,P94392,putP ycgO BSU03220,nonessential,optimal
+P94398,,,,,P94398,folE2 yciA BSU03340,nonessential,optimal
+P94405,,,,,P94405,bsdC ubiD yclC BSU03640,essential,optimal
+P94407,,,,,P94407,yclE BSU03660,nonessential,optimal
+P94408,,,,,P94408,yclF BSU03670,nonessential,optimal
+P94417,,,,,P94417,yclM BSU03790,nonessential,optimal
+P94418,,,,,P94418,yclN BSU03800,nonessential,optimal
+P94420,,,,,P94420,yclP BSU03820,nonessential,optimal
+P94421,,,,,P94421,yclQ BSU03830,nonessential,optimal
+P94422,sp_P94422_P94422,ycnB BSU03840,nonessential,optimal,,,,
+P94424,sp_P94424_P94424,nfrA2 ycnD BSU03860,nonessential,optimal,,,,
+P94425,,,,,P94425,ycnE BSU03870,essential,optimal
+P94427,sp_P94427_P94427,gabT ycnG BSU03900,nonessential,optimal,P94427,gabT ycnG BSU03900,nonessential,optimal
+P94428,sp_P94428_P94428,gabD ycnH BSU03910,nonessential,optimal,P94428,gabD ycnH BSU03910,nonessential,optimal
+P94440,sp_P94440_P94440,lnrL bifL yfiL BSU08310,nonessential,optimal,,,,
+P94459,sp_P94459_P94459,ppsD pps4 BSU18310,nonessential,optimal,P94459,ppsD pps4 BSU18310,nonessential,optimal
+P94465,sp_P94465_P94465,ribR ytnK BSU29300,essential,optimal,P94465,ribR ytnK BSU29300,nonessential,optimal
+P94474,sp_P94474_P94474,yeaC BSU06330,nonessential,optimal,,,,
+P94478,,,,,P94478,hflX ynbA BSU17430,nonessential,optimal
+P94482,,,,,P94482,ynaD BSU17520,nonessential,optimal
+P94488,sp_P94488_P94488,ynaJ BSU17570,nonessential,optimal,P94488,ynaJ BSU17570,nonessential,optimal
+P94489,sp_P94489_P94489,xynB BSU17580,nonessential,optimal,,,,
+P94490,,,,,P94490,xylR BSU17590,nonessential,optimal
+P94493,sp_P94493_P94493,yncC BSU17630,nonessential,optimal,P94493,yncC BSU17630,nonessential,optimal
+P94494,sp_P94494_P94494,alr2 yncD BSU17640,nonessential,optimal,P94494,alr2 yncD BSU17640,nonessential,optimal
+P94498,sp_P94498_P94498,cysH BSU15570,nonessential,optimal,P94498,cysH BSU15570,nonessential,optimal
+P94499,sp_P94499_P94499,brnQ yrdJ BSU26690,nonessential,optimal,P94499,brnQ yrdJ BSU26690,nonessential,optimal
+P94507,sp_P94507_P94507,uppP bacA upk yubB BSU31150,essential,optimal,P94507,uppP bacA upk yubB BSU31150,nonessential,optimal
+P94512,sp_P94512_P94512,serB ysaA BSU28940,nonessential,optimal,P94512,serB ysaA BSU28940,nonessential,optimal
+P94515,sp_P94515_P94515,lrgA ysbA BSU28910,nonessential,optimal,,,,
+P94523,sp_P94523_P94523,araA BSU28800,nonessential,optimal,P94523,araA BSU28800,nonessential,optimal
+P94524,sp_P94524_P94524,araB BSU28790,nonessential,optimal,P94524,araB BSU28790,nonessential,optimal
+P94525,sp_P94525_P94525,araD BSU28780,nonessential,optimal,P94525,araD BSU28780,nonessential,optimal
+P94526,,,,,P94526,araL yseA BSU28770,nonessential,optimal
+P94527,sp_P94527_P94527,egsA araM yseB BSU28760,nonessential,optimal,P94527,egsA araM yseB BSU28760,nonessential,optimal
+P94528,sp_P94528_P94528,araN yseC BSU28750,nonessential,optimal,P94528,araN yseC BSU28750,nonessential,optimal
+P94532,sp_P94532_P94532,cstA BSU28710,nonessential,optimal,,,,
+P94534,,,,,P94534,glcF ysfD BSU28690,nonessential,optimal
+P94535,sp_P94535_P94535,glcD ysfC BSU28680,nonessential,optimal,P94535,glcD ysfC BSU28680,essential,optimal
+P94547,sp_P94547_P94547,lcfA BSU28560,nonessential,optimal,P94547,lcfA BSU28560,nonessential,optimal
+P94549,sp_P94549_P94549,fadB ysiB BSU28540,nonessential,optimal,P94549,fadB ysiB BSU28540,nonessential,optimal
+P94551,sp_P94551_P94551,etfA BSU28520,nonessential,optimal,,,,
+P94556,sp_P94556_P94556,racE glr murI BSU28390,nonessential,optimal,P94556,racE glr murI BSU28390,nonessential,optimal
+P94558,,,,,P94558,ysnA BSU28360,nonessential,optimal
+P94559,,,,,P94559,ysnB BSU28350,essential,optimal
+P94565,sp_P94565_P94565,leuA BSU28280,essential,optimal,P94565,leuA BSU28280,essential,optimal
+P94568,sp_P94568_P94568,leuD BSU28250,essential,optimal,P94568,leuD BSU28250,essential,optimal
+P94571,,,,,P94571,bcrC ywoA BSU36530,nonessential,optimal
+P94573,,,,,P94573,ywoC BSU36490,nonessential,optimal
+P94575,sp_P94575_P94575,pucI ywoE BSU36470,nonessential,optimal,P94575,pucI ywoE BSU36470,nonessential,optimal
+P94584,sp_P94584_P94584,fabZ ywpB BSU36370,nonessential,optimal,P94584,fabZ ywpB BSU36370,nonessential,optimal
+P94585,,,,,P94585,mscL ywpC BSU36360,nonessential,optimal
+P94592,,,,,P94592,ywpJ BSU36290,nonessential,optimal
+P96575,sp_P96575_P96575,ydaB BSU04170,nonessential,optimal,P96575,ydaB BSU04170,nonessential,optimal
+P96576,,,,,P96576,ydaC BSU04180,essential,optimal
+P96578,,,,,P96578,ydaE BSU04200,nonessential,optimal
+P96579,,,,,P96579,ydaF BSU04210,nonessential,optimal
+P96590,,,,,P96590,mutT BSU04330,nonessential,optimal
+P96591,sp_P96591_P96591,ydaP BSU04340,nonessential,optimal,P96591,ydaP BSU04340,nonessential,optimal
+P96593,sp_P96593_P96593,mntH ydaR BSU04360,nonessential,optimal,P96593,mntH ydaR BSU04360,essential,optimal
+P96600,sp_P96600_P96600,dctB ydbE BSU04440,nonessential,optimal,,,,
+P96603,sp_P96603_P96603,dctA dctP ydbH BSU04470,nonessential,optimal,P96603,dctA dctP ydbH BSU04470,nonessential,optimal
+P96608,,,,,P96608,ydbM BSU04520,nonessential,optimal
+P96610,,,,,P96610,ydbO BSU04540,nonessential,optimal
+P96612,sp_P96612_P96612,ddl ddlA BSU04560,nonessential,optimal,P96612,ddl ddlA BSU04560,essential,optimal
+P96613,sp_P96613_P96613,murF ydbQ BSU04570,essential,optimal,P96613,murF ydbQ BSU04570,essential,optimal
+P96618,,,,,P96618,acpS ydcB BSU04620,nonessential,optimal
+P96648,sp_P96648_P96648,yddK BSU05000,nonessential,optimal,,,,
+P96654,,,,,P96654,yddQ BSU05070,nonessential,optimal
+P96661,,,,,P96661,ydeD BSU05160,nonessential,optimal
+P96674,,,,,P96674,ydeQ BSU05300,nonessential,optimal
+P96678,sp_P96678_P96678,ydfA BSU05340,nonessential,optimal,P96678,ydfA BSU05340,nonessential,optimal
+P96680,,,,,P96680,ydfC BSU05360,nonessential,optimal
+P96687,sp_P96687_P96687,ydfJ BSU05430,nonessential,optimal,,,,
+P96688,sp_P96688_P96688,nap BSU05440,nonessential,optimal,P96688,nap BSU05440,nonessential,optimal
+P96694,sp_P96694_P96694,mhqP ydfP BSU05500,nonessential,optimal,,,,
+P96703,,,,,P96703,ydgE BSU05600,nonessential,optimal
+P96704,sp_P96704_P96704,ydgF BSU05620,nonessential,optimal,,,,
+P96707,,,,,P96707,ydgI BSU05660,nonessential,optimal
+P96709,sp_P96709_P96709,ydgK BSU05680,nonessential,optimal,,,,
+P96710,sp_P96710_P96710,araE yvbR BSU33960,nonessential,optimal,P96710,araE yvbR BSU33960,nonessential,optimal
+P96712,sp_P96712_P96712,bmr3 mdr BSU03070,nonessential,optimal,,,,
+P96718,sp_P96718_P96718,ywqF BSU36230,nonessential,optimal,P96718,ywqF BSU36230,nonessential,optimal
+P96741,,,,,P96741,ywtE BSU35850,nonessential,optimal
+P97027,,,,,P97027,ssuB ycbE ygaL BSU08830,nonessential,optimal
+Q00758,,,,,Q00758,spoVB spoIIIF BSU27670,nonessential,optimal
+Q00777,sp_Q00777_Q00777,proG ykeA yzcA BSU12910,essential,optimal,Q00777,proG ykeA yzcA BSU12910,nonessential,optimal
+Q02169,sp_Q02169_Q02169,maf BSU28050,nonessential,optimal,Q02169,maf BSU28050,nonessential,optimal
+Q03221,sp_Q03221_Q03221,tdk BSU37060,nonessential,optimal,Q03221,tdk BSU37060,nonessential,optimal
+Q03224,sp_Q03224_Q03224,glpX ywjI BSU37090,nonessential,optimal,Q03224,glpX ywjI BSU37090,nonessential,optimal
+Q03521,sp_Q03521_Q03521,mraY BSU15190,essential,optimal,Q03521,mraY BSU15190,essential,optimal
+Q03522,sp_Q03522_Q03522,murD BSU15200,essential,optimal,Q03522,murD BSU15200,essential,optimal
+Q03523,sp_Q03523_Q03523,murE BSU15180,essential,optimal,Q03523,murE BSU15180,essential,optimal
+Q03524,sp_Q03524_Q03524,spoVD BSU15170,nonessential,optimal,Q03524,spoVD BSU15170,nonessential,optimal
+Q04747,sp_Q04747_Q04747,srfAB comL srfA2 BSU03490,nonessential,optimal,Q04747,srfAB comL srfA2 BSU03490,nonessential,optimal
+Q04777,sp_Q04777_Q04777,alsD BSU36000,nonessential,optimal,Q04777,alsD BSU36000,nonessential,optimal
+Q04789,sp_Q04789_Q04789,alsS BSU36010,nonessential,optimal,Q04789,alsS BSU36010,nonessential,optimal
+Q04795,sp_Q04795_Q04795,dapG lssD BSU16760,nonessential,optimal,Q04795,dapG lssD BSU16760,nonessential,optimal
+Q04796,sp_Q04796_Q04796,dapA BSU16770,essential,optimal,Q04796,dapA BSU16770,essential,optimal
+Q04797,sp_Q04797_Q04797,asd BSU16750,essential,optimal,Q04797,asd BSU16750,essential,optimal
+Q05470,,,,,Q05470,pksL outG pksA pksX BSU17190,nonessential,optimal
+Q05852,sp_Q05852_Q05852,gtaB BSU35670,nonessential,optimal,Q05852,gtaB BSU35670,nonessential,optimal
+Q05865,sp_Q05865_Q05865,folC BSU28080,essential,optimal,Q05865,folC BSU28080,essential,optimal
+Q05873,sp_Q05873_Q05873,valS BSU28090,nonessential,optimal,,,,
+Q06004,sp_Q06004_Q06004,gutB BSU06150,nonessential,optimal,Q06004,gutB BSU06150,nonessential,optimal
+Q06320,,,,,Q06320,cwlC BSU17410,nonessential,optimal
+Q06750,sp_Q06750_Q06750,cysE cysA BSU00930,nonessential,optimal,Q06750,cysE cysA BSU00930,essential,optimal
+Q06752,sp_Q06752_Q06752,cysS spnA BSU00940,nonessential,optimal,,,,
+Q06755,sp_Q06755_Q06755,ispD yacM BSU00900,essential,optimal,Q06755,ispD yacM BSU00900,essential,optimal
+Q06756,sp_Q06756_Q06756,ispF yacN BSU00910,essential,optimal,Q06756,ispF yacN BSU00910,essential,optimal
+Q07429,sp_Q07429_Q07429,nrgA amtB BSU36510,essential,optimal,Q07429,nrgA amtB BSU36510,essential,optimal
+Q07868,,,,,Q07868,pbpB BSU15160,nonessential,optimal
+Q08352,sp_Q08352_Q08352,ald ski22 spoVN BSU31930,nonessential,optimal,,,,
+Q08432,sp_Q08432_Q08432,patB BSU31440,nonessential,optimal,Q08432,patB BSU31440,nonessential,optimal
+Q08787,sp_Q08787_Q08787,srfAC srfA3 BSU03510,nonessential,optimal,,,,
+Q08792,,,,,Q08792,ycxD BSU03560,nonessential,optimal
+Q08794,,,,,Q08794,ycxC BSU03550,nonessential,optimal
+Q45064,,,,,Q45064,plsY yneS BSU18070,essential,optimal
+Q45068,sp_Q45068_Q45068,alsT BSU18120,nonessential,optimal,Q45068,alsT BSU18120,nonessential,optimal
+Q45460,sp_Q45460_Q45460,opuBA proV BSU33730,nonessential,optimal,,,,
+Q45477,sp_Q45477_Q45477,ileS BSU15430,nonessential,optimal,,,,
+Q45495,,,,,Q45495,defB ykrB BSU14560,nonessential,optimal
+Q45499,sp_Q45499_Q45499,suhB yktC BSU14670,nonessential,optimal,Q45499,suhB yktC BSU14670,nonessential,optimal
+Q45539,,,,,Q45539,csbB yfhN BSU08600,nonessential,optimal
+Q45582,sp_Q45582_Q45582,murQ ybbI BSU01700,nonessential,optimal,Q45582,murQ ybbI BSU01700,nonessential,optimal
+Q45597,,,,,Q45597,fbp yydE BSU40190,nonessential,optimal
+Q45604,sp_Q45604_Q45604,yycR BSU40250,nonessential,optimal,Q45604,yycR BSU40250,nonessential,optimal
+Q795J3,sp_Q795J3_Q795J3,epsN yvfE BSU34230,nonessential,optimal,Q795J3,epsN yvfE BSU34230,nonessential,optimal
+Q795M6,sp_Q795M6_Q795M6,yugH alaT BSU31400,nonessential,optimal,Q795M6,yugH alaT BSU31400,nonessential,optimal
+Q795U4,,,,,Q795U4,ytkL BSU29410,nonessential,optimal
+Q795Y4,sp_Q795Y4_Q795Y4,fdhE forC2 yrhE BSU27220,nonessential,optimal,,,,
+Q796C3,sp_Q796C3_Q796C3,sqhC BSU19320,nonessential,optimal,,,,
+Q796K8,,,,,Q796K8,pbpH ykuA BSU13980,nonessential,optimal
+Q796K9,sp_Q796K9_Q796K9,ykwB BSU13940,nonessential,optimal,,,,
+Q796P5,sp_Q796P5_Q796P5,yitY BSU11170,nonessential,optimal,,,,
+Q796Y5,sp_Q796Y5_Q796Y5,ygaK BSU08800,nonessential,optimal,Q796Y5,ygaK BSU08800,nonessential,optimal
+Q796Y8,,,,,Q796Y8,ygaF bcp BSU08720,nonessential,optimal
+Q796Z1,sp_Q796Z1_Q796Z1,ygaC BSU08680,nonessential,optimal,,,,
+Q797A7,sp_Q797A7_Q797A7,mtrA yfnA BSU07340,nonessential,optimal,,,,
+Q797E3,sp_Q797E3_Q797E3,pbuE ydhL BSU05800,nonessential,optimal,,,,
+Q797S1,,,,,Q797S1,ybbF BSU01680,nonessential,optimal
+Q79F14,sp_Q79F14_Q79F14,estB lipB yfiP BSU08350,nonessential,optimal,Q79F14,estB lipB yfiP BSU08350,nonessential,optimal
+Q7WY56,,,,,Q7WY56,spsL BSU37810 ipa-73d,nonessential,optimal
+Q7WY77,sp_Q7WY77_Q7WY77,pxpC kipA BSU04090,nonessential,optimal,,,,
+Q9JMQ2,,,,,Q9JMQ2,ppaX hprP ptsL yvoE BSU34970,nonessential,optimal
+Q9K2S2,sp_Q9K2S2_Q9K2S2,mrpA ntrA shaA yufT BSU31600,nonessential,optimal,,,,
+Q9KWU4,sp_Q9KWU4_Q9KWU4,pyc pycA ylaP BSU14860,nonessential,optimal,,,,
+Q9KWZ1,sp_Q9KWZ1_Q9KWZ1,nadA BSU27850,essential,optimal,Q9KWZ1,nadA BSU27850,essential,optimal
+Q9R9I1,sp_Q9R9I1_Q9R9I1,htrB yvtA BSU33000,nonessential,optimal,,,,

@@ -1,0 +1,3 @@
+model,original_file,sha256,reactions,metabolites,genes,exchange_reactions,gpr_reactions,objective,atpm_lower_bound,glucose_baseline
+gapseq,gapseq.xml,afb8efcb5f04b509a3705e6cbf272a7fb10442b3b3cc57859e24e1ee86db87ef,2787,2341,921,210,2346,EX_cpd11416_c0,,0.9234331441931157
+AlphaGEM,alphagem.json,fb446392c65418a25035fe3d727be5da002be9667390594c8c98c94486ad428b,2134,2027,1197,339,1680,Ec_biomass_iML1515_core_75p37M,6.86,0.0969981617239729

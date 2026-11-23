@@ -1,0 +1,7 @@
+{
+  "cobra_version": "0.32.1",
+  "solver": "glpk",
+  "essential_fraction": 0.01,
+  "growth_threshold": 1e-06,
+  "carbon_flux_limit": 60.0
+}
